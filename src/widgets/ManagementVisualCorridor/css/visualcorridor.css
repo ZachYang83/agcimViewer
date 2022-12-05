@@ -1,0 +1,49 @@
+.visual-corridor-box{
+    padding: 0 15px;
+}
+.botton-group button {
+    margin: 10px;
+}
+.visual-corrido-body {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 15px;
+}
+
+.visual-corrido-body-img {
+    width: 100%;
+    height: 145px;
+    margin-bottom: 15px;
+}
+
+.visual-corrido-font {
+    float: left;
+    padding-top: 6px;
+}
+
+.visual-corrido-input {
+    float: left;
+    width: 140px;
+}
+
+.visual-corrido-selection {
+    float: left;
+}
+
+.visual-corrido-back {
+    float: right;
+    width: 80px;
+    margin-left:10px;
+}
+
+.visual-corrido-button {
+    float: left;
+    margin-left:6px;
+    margin-bottom:6px;
+}
+
+#pic-left {
+    float: left;
+    width: 100%;
+    height: 100%;
+}

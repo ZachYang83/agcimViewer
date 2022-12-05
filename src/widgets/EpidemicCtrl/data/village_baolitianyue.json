@@ -1,0 +1,159 @@
+{
+    "villageRailData": [
+        {
+            "name": "保利天悦围栏1",
+            "startPointX": 113.3716934,
+            "startPointY": 23.1025320,
+            "endPointX": 113.3716613,
+            "endPointY": 23.1034248,
+            "state": 0
+        },
+        {
+            "name": "保利天悦围栏2",
+            "startPointX": 113.3716625,
+            "startPointY": 23.1034702,
+            "endPointX": 113.3717174,
+            "endPointY": 23.1057372,
+            "state": 0
+        },
+        {
+            "name": "保利天悦围栏3",
+            "startPointX": 113.3717179,
+            "startPointY": 23.1057573,
+            "endPointX": 113.3717426,
+            "endPointY": 23.1065849,
+            "state": 0
+        },
+        {
+            "name": "保利天悦围栏4",
+            "startPointX": 113.3717426,
+            "startPointY": 23.1065849,
+            "endPointX": 113.3720016,
+            "endPointY": 23.1068405,
+            "state": 0
+        },
+        {
+            "name": "保利天悦围栏5",
+            "startPointX": 113.3720016,
+            "startPointY": 23.1068405,
+            "endPointX": 113.3739124,
+            "endPointY": 23.1069337,
+            "state": 0
+        },
+        {
+            "name": "保利天悦围栏6",
+            "startPointX": 113.3739551,
+            "startPointY": 23.1069357,
+            "endPointX": 113.3757320,
+            "endPointY": 23.1070459,
+            "state": 0
+        },
+        {
+            "name": "保利天悦围栏7",
+            "startPointX": 113.3757320,
+            "startPointY": 23.1070459,
+            "endPointX": 113.3767681,
+            "endPointY": 23.1051496,
+            "state": 0
+        },
+        {
+            "name": "保利天悦围栏8",
+            "startPointX": 113.3769040,
+            "startPointY": 23.1049554,
+            "endPointX": 113.3770952,
+            "endPointY": 23.1046918,
+            "state": 0
+        },
+        {
+            "name": "保利天悦围栏9",
+            "startPointX": 113.3770952,
+            "startPointY": 23.1046918,
+            "endPointX": 113.3742548,
+            "endPointY": 23.1035254,
+            "state": 0
+        },
+        {
+            "name": "保利天悦围栏10",
+            "startPointX": 113.3737112,
+            "startPointY": 23.1033062,
+            "endPointX": 113.3716934,
+            "endPointY": 23.1025320,
+            "state": 0
+        },
+        {
+            "name": "保利天悦西二门",
+            "startPointX": 113.3716613,
+            "startPointY": 23.1034248,
+            "endPointX": 113.3716625,
+            "endPointY": 23.1034702,
+            "state": 1
+        },
+        {
+            "name": "保利天悦西一门",
+            "startPointX": 113.3717174,
+            "startPointY": 23.1057372,
+            "endPointX": 113.3717179,
+            "endPointY": 23.1057573,
+            "state": 1
+        },
+        {
+            "name": "保利天悦北门",
+            "startPointX": 113.3739124,
+            "startPointY": 23.1069337,
+            "endPointX": 113.3739551,
+            "endPointY": 23.1069357,
+            "state": 1
+        },
+        {
+            "name": "保利天悦东门",
+            "startPointX": 113.3767681,
+            "startPointY": 23.1051496,
+            "endPointX": 113.3769040,
+            "endPointY": 23.1049554,
+            "state": 1
+        },
+        {
+            "name": "保利天悦南门",
+            "startPointX": 113.3742548,
+            "startPointY": 23.1035254,
+            "endPointX": 113.3737112,
+            "endPointY": 23.1033062,
+            "state": 1
+        }
+    ],
+    "cameraData": [
+        {
+            "name": "西一门",
+            "X": 113.3717174,
+            "Y": 23.1057372
+        },
+        {
+            "name": "西二门",
+            "X": 113.3716613,
+            "Y": 23.1034248
+        },
+        {
+            "name": "北门",
+            "X": 113.3739124,
+            "Y": 23.1069337
+        },
+        {
+            "name": "东门",
+            "X": 113.3767681,
+            "Y": 23.1051496
+        },
+        {
+            "name": "南门",
+            "X": 113.3742548,
+            "Y": 23.1035254
+        }
+    ],
+    "model":{
+        "url":"http://192.168.3.203:7280/Models/Tongfeng_3d/Building_baoli/tileset.json",
+        "x": 113.3745418,
+        "y":23.1053703
+    },
+    "monitorVideo":{
+        "url":"http://192.168.3.203:7280/Multimedia/BaoLiTianYue_video/MonitorVideo.mp4"
+    }
+}

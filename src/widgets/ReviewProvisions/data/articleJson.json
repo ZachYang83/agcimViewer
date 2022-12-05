@@ -1,0 +1,1551 @@
+[
+  {
+    "id": "4",
+    "type": "强制性条文",
+    "status": true,
+    "basis": "临空窗台的高度不应低于0.90m。",
+    "result": "符合《中小学校设计规范》第8.1.5条。",
+    "name": "8.1.5",
+    "method": "JZ815",
+    "classificationType": 1,
+    "options":1,
+    "optionsID":"5A901D6B-273A-D65E-2F64-248F33149F71"
+  },
+  {
+    "id": "5",
+    "type": "强制性条文",
+    "status": true,
+    "basis": "1 防空地下室的每个防护单元不应少于两个出入口（不包括竖井式出入口、防护单元之间的连通口），其中至少有一个室外出入口（竖井式除外）。战时主要出入口应设在室外出入口（符合第3．3．2条规定的防空地下室除外）；2 消防专业队装备掩蔽部的室外车辆出入口不应少于两个；中心医院、急救医院和建筑面积大于6000m2的物资库等防空地下室的室外出入口不宜少于两个。设置的两个室外出入口宜朝向不同方向，且宜保持最大距离；3 符合下列条件之一的两个相邻防护单元，可在防护密闭门外共设一个室外出入口。相邻防护单元的抗力级别不同时，共设的室外出入口应按高抗力级别设计：1) 当两相邻防护单元均为人员掩蔽工程时或其中一侧为人员掩蔽工程另一侧为物资库时；2) 当两相邻防护单元均为物资库，且其建筑面积之和不大于6000m2时：4 室外出入口设计应采取防雨、防地表水措施。",
+    "result": "符合《人民防空地下室设计规范》第3.3.1条。",
+    "name": "3.3.1",
+    "method": "JZ815",
+    "classificationType": 1,
+    "options":5,
+    "optionsID":"9E8AF419-4560-D1A3-93B2-4FCCE3D3A1B0"
+  },
+  {
+    "id": "6",
+    "type": "强制性条文",
+    "status": true,
+    "basis": " 在染毒区与清洁区之间应设置整体浇筑的钢筋混凝土密闭隔墙，其厚度不应小于200mm，并应在染毒区一侧墙面用水泥砂浆抹光。当密闭隔墙上有管道穿过时，应采取密闭措施。在密闭隔墙上开设门洞时，应设置密闭门。",
+    "result": "符合《人民防空地下室设计规范》第3.2.13条。",
+    "name": "3.2.13",
+    "method": "JZ815",
+    "classificationType": 1,
+    "options":8,
+    "optionsID":"020CB390-2EF5-4AA8-2DDC-AD753CAF905A"
+  },
+  {
+    "id": "13",
+    "type": "一般性条文（列入审查要点）",
+    "status": true,
+    "basis": "医疗救护工程、防空专业队工程、人员掩蔽工程和配套工程应按下列规定划分防护单元和抗爆单元：1 上部建筑层数为九层或不足九层（包括没有上部建筑）的防空地下室应按表3．2．6的要求划分防护单元和抗爆单元； 2 上部建筑的层数为十层或多于十层（其中一部分上部建筑可不足十层或没有上部建筑，但其建筑面积不得大于200m的防空地下室，可不划分防护单元和抗爆单元（注：位于多层地下室底层的防空地下室，其上方的地下室层数可计入上部建筑的层数）；3 对于多层的乙类防空地下室和多层的核5级、核6级、核6B级的甲类防空地下室，当其上下相邻楼层划分为不同防护单元时，位于下层及以下的各层可不再划分防护单元和抗爆单元。",
+    "result": "符合《人民防空地下室设计规范》第3.2.6条。",
+    "name": "3.2.6",
+    "method": "JZ563",
+    "classificationType": 3,
+    "options":5,
+    "optionsID":"123DB508-6F4B-7611-7671-A542DB0EAC2C"
+  },
+  {
+    "id": "14",
+    "type": "一般性条文（列入审查要点）",
+    "status": true,
+    "basis": "",
+    "result": "符合《建筑设计防火规范》第5.3.1条。",
+    "name": "5.3.1",
+    "method": "JZ815",
+    "classificationType": 3,
+    "options":3,
+    "optionsID":"6D49E2AD-93A5-23B5-47E9-A0FDC8D7D297"
+  },
+  {
+    "id": 18,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "住宅应按套型设计，每套住宅应设卧室、起居室(厅)、厨房和卫生间等基本功能空间。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "5.1.1",
+    "method": "JZ00001a",
+    "classificationType": 1,
+    "options":8,
+    "optionsID":"ABAEE685-1669-53C6-8C2C-473F65F733D8"
+  },
+  {
+    "id": 18,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "住宅应按套型设计，每套住宅应设卧室、起居室(厅)、厨房和卫生间等基本功能空间。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "5.1.1",
+    "method": "JZ00001a",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"F69E18AE-D163-D964-84D8-CC7442C9C564"
+  },
+  {
+    "id": 19,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "卫生间不应直接布置在下层住户的卧室、起居室(厅)、厨房和餐厅的上层。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "5.4.4",
+    "method": "JZ00001b",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"D6E2C603-76FA-6CCC-DC98-68A95BDB81EF"
+  },
+  {
+    "id": 20,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "阳台栏杆设计必须采用防止儿童攀登的构造，栏杆的垂直杆件间净距不应大于0.11m，放置花盆处必须采取防坠落措施。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "5.6.2",
+    "method": "JZ00001",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"96BBFCC3-F937-20EC-5BB6-A38834AFF508"
+  },
+  {
+    "id": 21,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "阳台栏板或栏杆净高，六层及六层以下不应低于1.05m；七层及七层以上不应低于1.10m。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "5.6.3",
+    "method": "JZ00002",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"16C5CDB8-A8A8-8DE4-EA82-35EC84F09392"
+  },
+  {
+    "id": 22,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "外廊、内天井及上人屋面等临空处的栏杆净高，六层及六层以下不应低于1．05m，七层及七层以上不应低于1．10m。\r\n                  防护栏杆必须采用防止儿童攀登的构造，栏杆的垂直杆件间净距不应大于0．11m。放置花盆处必须采取防坠落措施。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "6.1.3",
+    "method": "JZ00003",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"86ACDDF7-6AA1-44CE-5FE8-6E274BDB46FC"
+  },
+  {
+    "id": 23,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "如果住宅建筑层数满足十层以下并满足以下条件之一时：\r\n                 1.住宅单元最大楼层面积大于650m²，\r\n                 2.任一套房的户门至安全出口的距离大于15m时。\r\n                 那么该住宅单元每层的安全出口不应少于2个。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "6.2.1",
+    "method": "JZ00004",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"331107D4-F3C1-3CDF-3FC7-7E38C826D276"
+  },
+  {
+    "id": 24,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "如果住宅建筑层数满足十层及十层以上且不超过十八层并满足以下条件之一时：\r\n                 1.住宅单元最大楼层面积大于650m²，\r\n                 2.任一套房的户门至安全出口的距离大于10m时，那么该住宅单元每层的安全出口不应少于2个。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "6.2.2",
+    "method": "JZ00005",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"46B03FCC-2E2C-BC00-8444-E57A93553CC9"
+  },
+  {
+    "id": 25,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "十九层及十九层以上的住宅建筑，每层住宅单元的安全出口不应少于2个。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "6.2.3",
+    "method": "JZ00006",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"147D51ED-1043-C3D0-753E-43BD6B2C3C77"
+  },
+  {
+    "id": 26,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "安全出口应分散布置，两个安全出口的距离不应小于5m。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "6.2.4",
+    "method": "JZ00007",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"633FFABB-7540-8133-DF79-F815C5F1ABB0"
+  },
+  {
+    "id": 27,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "楼梯梯段净宽不应小于1．10m，不超过六层的住宅，一边设有栏杆的梯段净宽不应小于1．00m。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "6.3.1",
+    "method": "JZ00008",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"BA22A74C-CAAF-487E-2857-B747C932B252"
+  },
+  {
+    "id": 28,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "楼梯踏步宽度不应小于0．26m，踏步高度不应大于0．175m。\r\n                  扶手高度不应小于0．90m。\r\n                  楼梯水平段栏杆长度大于0．50m时，其扶手高度不应小于1．05m。\r\n                  楼梯栏杆垂直杆件间净空不应大于0．11m。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "6.3.2",
+    "method": "JZ00008a",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"887D5E44-E35B-D46D-2749-5527F5E57CB7"
+  },
+  {
+    "id": 29,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "楼梯井净宽大于0．11m时，必须采取防止儿童攀滑的措施。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "6.3.5",
+    "method": "JZ00008b",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"213B6A23-5912-5527-8F63-53D8D1E4D6E6"
+  },
+  {
+    "id": 30,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "住宅建筑内严禁布置存放和使用甲、乙类火灾危险性物品的商店、车间和仓库，\r\n                  以及产生噪声、振动和污染环境卫生的商店、车间和娱乐设施。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "6.10.1",
+    "method": "JZ00008d",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"98AC891F-422F-333E-1AEE-71674897D6FF"
+  },
+  {
+    "id": 31,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "民用建筑耐火等级满足下列条件：\r\n                  1. 地下或半地下建筑（室）和一类高层建筑的耐火等级不应低于一级；\r\n                  2.单多层重要公共建筑和二类高层建筑的耐火等级不应低于二级；",
+    "result": "满足。本项目为高层，耐火等级为：一级",
+    "name": "5.1.3",
+    "method": "HF0000513",
+    "classificationType": 1,
+    "Elements": [],
+    "options":3,
+    "optionsID":"DD728725-AF9C-D0C4-715B-898AF8359D02"
+  },
+  {
+    "id": 32,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "1.建筑高度大于100m的民用建筑，其楼板的耐火极限不应低于2.00h。\r\n                  2.一二级耐火等级建筑的上人平屋顶，其屋面板的耐火极限分别不应低于1.50h和1.00h。",
+    "result": "待确定。该项目未找指定屋面楼板",
+    "name": "5.1.4",
+    "method": "HF0000514",
+    "classificationType": 1,
+    "Elements": [],
+    "options":3,
+    "optionsID":"CD33B4B8-BA8E-5372-49CF-6126AD9E4EC0"
+  },
+  {
+    "id": 33,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "除为满足民用建筑使用功能所设置的附属库房外，民用建筑内不应设置生产车间和其他库房。 \r\n         经营、存放和使用甲、乙类火灾危险性物品的商店、作坊和储藏间，严禁附设在民用建筑内。\r\n          ",
+    "result": "满足。本项目建筑使用功能满足要求。",
+    "name": "5.4.2",
+    "method": "HF0000542",
+    "classificationType": 1,
+    "Elements": [],
+    "options":3,
+    "optionsID":"5DFE504C-623B-5FEC-7D71-A0A354460366"
+  },
+  {
+    "id": 34,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "商店建筑、展览建筑采用三级耐火等级建筑时，不应超过2 层；采用四级耐火等级建筑时，应为单层。营业厅、展览厅设置在三级耐火等级的建筑内时，应布置在首层或二层；设置在四级耐火等级的建筑内时，应布置在首层。\r\n       营业厅、展览厅不应设置在地下三层及以下楼层。地下或半地下营业厅、展览厅不应经营、储存和展示甲、乙类火灾危险性物品。\r\n          ",
+    "result": "满足。本项目未设置为营业厅、展览厅",
+    "name": "5.4.3",
+    "method": "HF0000543",
+    "classificationType": 1,
+    "Elements": [],
+    "options":3,
+    "optionsID":"545BD7D5-0489-0B7A-2BB7-DD7657A2D334"
+  },
+  {
+    "id": 35,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "教学建筑、食堂、菜市场采用三级耐火等级建筑时，不应超过2 层；\r\n                  采用四级耐火等级建筑时，应为单层；\r\n                  设置在三级耐火等级的建筑内时，应布置在首层或二层；\r\n                  设置在四级耐火等级的建筑内时，应布置在首层。",
+    "result": "满足。本项目非教学建筑、食堂、菜市场建筑",
+    "name": "5.4.6",
+    "method": "HF0000546",
+    "classificationType": 1,
+    "Elements": [],
+    "options":3,
+    "optionsID":"FE179FC4-ED97-D5D0-9B84-D6A52EFA1CD1"
+  },
+  {
+    "id": 36,
+    "type": "强制性条文",
+    "status": true,
+    "basis": " 一类高层公共建筑和建筑高度大于32m 的二类高层公共建筑，其疏散楼梯应采用防烟楼梯间。\r\n                  裙房和建筑高度不大于32m 的二类高层公共建筑，其疏散楼梯应采用封闭楼梯间。\r\n                  注：当裙房与高层建筑主体之间设置防火墙时，裙房的疏散楼梯可按本规范有关单、多层建筑的要求确定。",
+    "result": "满足。该项目疏散楼梯满足要求",
+    "name": "5.5.12",
+    "method": "HF00005512",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"BECD3241-4059-6E29-CE19-B12E8141199D"
+  },
+  {
+    "id": 37,
+    "type": "强制性条文",
+    "status": true,
+    "basis": " 公共建筑疏散门和安全出口的净宽度≥0.90m，疏散走道和疏散楼梯的净宽度≥1.10m。\r\n                  高层公共建筑内楼梯间的首层疏散门、首层疏散外门、疏散走道和疏散楼梯的最小净宽度应符合表5.5.18的规定",
+    "result": "满足。该项目疏散宽度满足要求",
+    "name": "5.5.18",
+    "method": "HF00005518",
+    "classificationType": 1,
+    "Elements": [],
+    "options":6,
+    "optionsID":"182045C1-25E7-B2A7-FE63-94759C2A60AB"
+  },
+  {
+    "id": 38,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "住宅建筑安全出口的设置应符合下列规定：\r\n                  1 建筑高度不大于27m的建筑，当每个单元任一层的建筑面积大于650m²，\r\n                  或任一户门至最近安全出口的距离大于15m时，每个单元每层的安全出口不应少于2个；\r\n                  2 建筑高度大于27m、不大于54m的建筑，当每个单元任一层的建筑面积大于650m²，\r\n                  或任一户门至最近安全出口的距离大于10m时，每个单元每层的安全出口不应少于2个；\r\n                  3 建筑高度大于54m的建筑，每个单元每层的安全出口不应少于2个。",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "5.5.25",
+    "method": "HF00005525",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"BCAEE9FA-CCFE-728C-595A-56217D37B024"
+  },
+  {
+    "id": 39,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "住宅建筑的户门、安全出口、疏散走道和疏散楼梯的各自总净宽度应经计算确定，\r\n                  且户门和安全出口的净宽度不应小于0.9m，疏散走道，疏散楼梯和首层疏散外门的净宽度不应小于1.1m。\r\n                  建筑高度不大于18m的住宅中一边设置栏杆的疏散楼梯，其净宽度不应小于1m",
+    "result": "满足。此建筑非住宅建筑",
+    "name": "5.5.30",
+    "method": "HF00005530",
+    "classificationType": 1,
+    "Elements": [],
+    "options":8,
+    "optionsID":"F022A2F0-8BBF-E937-5563-DAB418DF518D"
+  },
+  {
+    "id": 40,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "疏散走道在防火分区处应设置常开甲级防火门",
+    "result": "待确定。未找到防火分区",
+    "name": "6.4.10",
+    "method": "HF00006410",
+    "classificationType": 1,
+    "Elements": [],
+    "options":3,
+    "optionsID":"3B1B130F-A10E-06DE-F79A-5D32EABF9CDB"
+  },
+  {
+    "id": 41,
+    "type": "强制性条文",
+    "status": false,
+    "basis": "厂房、仓库、公共建筑的外墙应在每层的适当位置设置可供消防救援人员进入的窗口。",
+    "result": "不满足。楼层:(1F)未设置消防消防救援；楼层:(-1F)未设置消防消防救援；楼层:(-2F)未设置消防消防救援；楼层:(2F)未设置消防消防救援；楼层:(3F)未设置消防消防救援；楼层:(4F)未设置消防消防救援；楼层:(5F)未设置消防消防救援；楼层:(6F)未设置消防消防救援；楼层:(7F)未设置消防消防救援；楼层:(8F)未设置消防消防救援；楼层:(9F)未设置消防消防救援；楼层:(10F)未设置消防消防救援；楼层:(11F)未设置消防消防救援；楼层:(12F)未设置消防消防救援；楼层:(13F)未设置消防消防救援；楼层:(14F)未设置消防消防救援；楼层:(15F)未设置消防消防救援；楼层:(16F)未设置消防消防救援；楼层:(17F)未设置消防消防救援；楼层:(18F)未设置消防消防救援；楼层:(19F)未设置消防消防救援；楼层:(20F)未设置消防消防救援；楼层:(21F)未设置消防消防救援；楼层:(22F)未设置消防消防救援；楼层:(RF)未设置消防消防救援；楼层:(屋顶)未设置消防消防救援；",
+    "name": "7.2.4",
+    "method": "HF0000724",
+    "classificationType": 1,
+    "options":6,
+    "optionsID":"8AE7BA9B-A696-BE1F-A8CB-356391E3B9BF",
+    "Elements": [
+      {
+        "Name": "1F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3e052f9-0156-11d5-9301-0000863f27ad-00000137",
+        "IsTransient": false,
+        "Id": 311,
+        "Pinned": true
+      },
+      {
+        "Name": "-1F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "458c0e49-01bb-11d5-9302-0000863f27ad-000002b6",
+        "IsTransient": false,
+        "Id": 694,
+        "Pinned": true
+      },
+      {
+        "Name": "-2F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c73b",
+        "IsTransient": false,
+        "Id": 313147,
+        "Pinned": true
+      },
+      {
+        "Name": "2F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c73c",
+        "IsTransient": false,
+        "Id": 313148,
+        "Pinned": true
+      },
+      {
+        "Name": "3F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c73d",
+        "IsTransient": false,
+        "Id": 313149,
+        "Pinned": true
+      },
+      {
+        "Name": "4F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c73e",
+        "IsTransient": false,
+        "Id": 313150,
+        "Pinned": true
+      },
+      {
+        "Name": "5F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c73f",
+        "IsTransient": false,
+        "Id": 313151,
+        "Pinned": true
+      },
+      {
+        "Name": "6F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c740",
+        "IsTransient": false,
+        "Id": 313152,
+        "Pinned": true
+      },
+      {
+        "Name": "7F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c741",
+        "IsTransient": false,
+        "Id": 313153,
+        "Pinned": true
+      },
+      {
+        "Name": "8F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c742",
+        "IsTransient": false,
+        "Id": 313154,
+        "Pinned": true
+      },
+      {
+        "Name": "9F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c743",
+        "IsTransient": false,
+        "Id": 313155,
+        "Pinned": true
+      },
+      {
+        "Name": "10F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c744",
+        "IsTransient": false,
+        "Id": 313156,
+        "Pinned": true
+      },
+      {
+        "Name": "11F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c745",
+        "IsTransient": false,
+        "Id": 313157,
+        "Pinned": true
+      },
+      {
+        "Name": "12F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c746",
+        "IsTransient": false,
+        "Id": 313158,
+        "Pinned": true
+      },
+      {
+        "Name": "13F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c747",
+        "IsTransient": false,
+        "Id": 313159,
+        "Pinned": true
+      },
+      {
+        "Name": "14F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c748",
+        "IsTransient": false,
+        "Id": 313160,
+        "Pinned": true
+      },
+      {
+        "Name": "15F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c749",
+        "IsTransient": false,
+        "Id": 313161,
+        "Pinned": true
+      },
+      {
+        "Name": "16F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c74a",
+        "IsTransient": false,
+        "Id": 313162,
+        "Pinned": true
+      },
+      {
+        "Name": "17F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c74b",
+        "IsTransient": false,
+        "Id": 313163,
+        "Pinned": true
+      },
+      {
+        "Name": "18F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c74c",
+        "IsTransient": false,
+        "Id": 313164,
+        "Pinned": true
+      },
+      {
+        "Name": "19F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c74d",
+        "IsTransient": false,
+        "Id": 313165,
+        "Pinned": true
+      },
+      {
+        "Name": "20F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c74e",
+        "IsTransient": false,
+        "Id": 313166,
+        "Pinned": true
+      },
+      {
+        "Name": "21F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c74f",
+        "IsTransient": false,
+        "Id": 313167,
+        "Pinned": true
+      },
+      {
+        "Name": "22F",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c750",
+        "IsTransient": false,
+        "Id": 313168,
+        "Pinned": true
+      },
+      {
+        "Name": "RF",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c751",
+        "IsTransient": false,
+        "Id": 313169,
+        "Pinned": true
+      },
+      {
+        "Name": "屋顶",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004c752",
+        "IsTransient": false,
+        "Id": 313170,
+        "Pinned": true
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "下列建筑应设置消防电梯：\r\n                  1、建筑高度大于33m的住宅建筑；\r\n                  2、一类高层公共建筑和建筑高度大于32m的二类高层公共建筑、5层及以上且总建筑面积大于3000m²\r\n                  （包括设置在其他建筑内五层及以上楼层）的老年人照料设施；\r\n                  3、设置消防电梯的建筑的地下或半地下室，深埋大于10m且总建筑面积大于3000m的其他地下或者半地下建筑",
+    "result": "满足。消防电梯设置满足规范要求",
+    "name": "7.3.1",
+    "method": "HF0000731",
+    "classificationType": 1,
+    "Elements": [],
+    "options":3,
+    "optionsID":"9B6B3C70-E0C1-B40F-A4AE-1E0034F3C93C"
+  },
+  {
+    "id": 43,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "消防电梯应分别设置在不同防火分区内，且每个防火分区不应少于1台。",
+    "result": "待确定。未找到防火分区",
+    "name": "7.3.2",
+    "method": "HF0000732",
+    "classificationType": 1,
+    "Elements": [],
+    "options":3,
+    "optionsID":"C6F68D66-E905-E1F1-E9E5-8ECBB3F7E7AC"
+  },
+  {
+    "id": 44,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "1.公共建筑安全出口通常应满足： ①每个防火分区安全出口≥2个 。②一个防火分区的每个楼层安全出口≥2个；\r\n                  2.公共建筑设置安全出口/疏散楼梯=1时，应满足以下条件之一：①建筑类型非托儿所、幼儿园+建筑面积≤200㎡+人数≤50人+单层公共建筑或多层公共建筑的首层\r\n                  ②建筑类型非医疗建筑，老年人照料设施，托儿所、幼儿园的儿童用房，儿童游乐厅等儿童活动场所和歌舞娱乐放映游艺场所，并符合表 5.5.8 规定的公共建筑。",
+    "result": "待确定。未指定防火分区面积",
+    "name": "5.5.8",
+    "method": "JZ000010",
+    "classificationType": 1,
+    "Elements": [],
+    "options":3,
+    "optionsID":"119F09B0-E4C8-4652-8160-F7D137596717"
+  },
+  {
+    "id": 45,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "1.公共建筑安全出口通常应满足： ①每个防火分区安全出口≥2个 。②一个防火分区的每个楼层安全出口≥2个；\r\n                  2.公共建筑设置安全出口/疏散楼梯=1时，应满足以下条件之一：①建筑类型非托儿所、幼儿园+建筑面积≤200㎡+人数≤50人+单层公共建筑或多层公共建筑的首层\r\n                  ②建筑类型非医疗建筑，老年人照料设施，托儿所、幼儿园的儿童用房，儿童游乐厅等儿童活动场所和歌舞娱乐放映游艺场所，并符合表 5.5.8 规定的公共建筑。",
+    "result": "待确定。未找到包含剪刀楼梯字段的房间名称",
+    "name": "5.5.10",
+    "method": "JZ000011",
+    "classificationType": 1,
+    "Elements": [],
+    "options":6,
+    "optionsID":"577636ED-AE72-93DA-B09A-559FC3EF7748"
+  },
+  {
+    "id": 46,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "1.公共建筑安全出口通常应满足： ①每个防火分区安全出口≥2个 。②一个防火分区的每个楼层安全出口≥2个；\r\n                  2.公共建筑设置安全出口/疏散楼梯=1时，应满足以下条件之一：①建筑类型非托儿所、幼儿园+建筑面积≤200㎡+人数≤50人+单层公共建筑或多层公共建筑的首层\r\n                  ②建筑类型非医疗建筑，老年人照料设施，托儿所、幼儿园的儿童用房，儿童游乐厅等儿童活动场所和歌舞娱乐放映游艺场所，并符合表 5.5.8 规定的公共建筑。",
+    "result": "待确定。未指定疏散房间",
+    "name": "5.5.15",
+    "method": "JZ000012",
+    "classificationType": 1,
+    "Elements": [],
+    "options":3,
+    "optionsID":"A231A2CA-5673-1147-2B64-C3AC53E28138"
+  },
+  {
+    "id": 47,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "下列建筑或场所应设置室内消火栓系统：\r\n    1 建筑占地面积大于300m2 的厂房和仓库；\r\n    2 高层公共建筑和建筑高度大于21m 的住宅建筑；\r\n    注：建筑高度不大于27m 的住宅建筑，设置室内消火栓系统确有困难时，可只设置干式消防竖管和不带消火栓箱的DN65 的室内消火栓。\r\n    3 体积大于5000m3 的车站、码头、机场的候车（船、机）建筑、展览建筑、商店建筑、旅馆建筑、医疗建筑和图书馆建筑等单、多层建筑；\r\n    4 特等、甲等剧场，超过800 个座位的其他等级的剧场和电影院等以及超过1200个座位的礼堂、体育馆等单、多层建筑；\r\n    5 建筑高度大于15m 或体积大于10000m3 的办公建筑、教学建筑和其他单、多层民用建筑。\r\n",
+    "result": "满足。此建筑实际建筑高度为 95.45 米，建筑类型为 公共建筑 ，用途为 办公楼。已设消火栓系统。",
+    "name": "8.2.1",
+    "method": "XF00001",
+    "classificationType": 1,
+    "options":3,
+    "optionsID":"C3F299E9-B19A-D121-4C0B-60E874ACA644",
+    "Elements": [
+     
+    ]
+  },
+  {
+    "id": 48,
+    "type": "强制性条文",
+    "status": false,
+    "basis": "人员密集的公共建筑、建筑高度大于100m的建筑和建筑面积大于200m2的商业服务网点内应设置消防软管卷盘或轻便消防水龙。高层住宅建筑的户内宜配置轻便消防水龙。",
+    "result": "满足。此建筑实际建筑高度为 95.45 米。此建筑实际建筑面积为 356000 平方米。已设消防软管卷盘或轻便消防水龙",
+    "name": "8.2.4",
+    "method": "XF00002",
+    "classificationType": 1,
+    "options":8,
+    "optionsID":"2C6BE92E-2C4B-2E33-3A03-9740378BA6BF",
+    "Elements": [
+      {
+        "Name": "图例构件 - 组合式消火栓箱-后左右进水 (三维)",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-0007c7bd",
+        "IsTransient": false,
+        "Id": 509885,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-0007c827",
+        "IsTransient": false,
+        "Id": 509991,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-0007c95d",
+        "IsTransient": false,
+        "Id": 510301,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-0007c993",
+        "IsTransient": false,
+        "Id": 510355,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-0007c99b",
+        "IsTransient": false,
+        "Id": 510363,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-0007c9a3",
+        "IsTransient": false,
+        "Id": 510371,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-0007c9ab",
+        "IsTransient": false,
+        "Id": 510379,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-0007c9b3",
+        "IsTransient": false,
+        "Id": 510387,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-000835c5",
+        "IsTransient": false,
+        "Id": 538053,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-000835c6",
+        "IsTransient": false,
+        "Id": 538054,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-000835c7",
+        "IsTransient": false,
+        "Id": 538055,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-000835c8",
+        "IsTransient": false,
+        "Id": 538056,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-000835cb",
+        "IsTransient": false,
+        "Id": 538059,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-00084003",
+        "IsTransient": false,
+        "Id": 540675,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-00084036",
+        "IsTransient": false,
+        "Id": 540726,
+        "Pinned": false
+      },
+      {
+        "Name": "右",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "e3a11a3c-9151-4efe-aba6-9528aec612de-00084048",
+        "IsTransient": false,
+        "Id": 540744,
+        "Pinned": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "直通建筑内附设汽车库的电梯，应在汽车库部分设置电梯候梯厅，并应采用耐火极限不低于2.00h 的防火隔墙和乙级防火门与汽车库分隔。",
+    "result": "满足。此建筑没有安装电梯",
+    "name": "5.5.6",
+    "method": "XF00004",
+    "classificationType": 1,
+    "options":3,
+    "optionsID":"CF54E5CA-5B54-C252-49D5-94962C77DDFE",
+    "Elements": []
+  },
+  {
+    "id": 50,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "公共建筑内的客、货电梯宜设置电梯候梯厅，不宜直接设置在营业厅、展览厅、多功能厅等场所内。",
+    "result": "满足。此建筑BIM模型未检测到电梯设备",
+    "name": "5.5.14",
+    "method": "XF00006",
+    "classificationType": 1,
+    "options":6,
+    "optionsID":"3AAEAF94-ED5C-4CED-3A5A-5883991F06E1",
+    "Elements": []
+  },
+  {
+    "id": 51,
+    "type": "强制性条文",
+    "status": false,
+    "basis": "人员密集的公共场所、观众厅的疏散门不应设置门槛，其净宽度不应小于1.40m，且紧靠门口内外各1.40m 范围内不应设置踏步。",
+    "result": "不满足。此建筑疏散门不符合规范要求。",
+    "name": "5.5.19",
+    "method": "XF00008",
+    "classificationType": 1,
+    "options":8,
+    "optionsID":"77584EE3-B2C6-2F7F-966F-AF7782B684EA",
+    "Elements": [
+      {
+        "Name": "门_M1221",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0be",
+        "IsTransient": false,
+        "Id": 315582,
+        "Pinned": false
+      },
+      {
+        "Name": "900 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0bf",
+        "IsTransient": false,
+        "Id": 315583,
+        "Pinned": false
+      },
+      {
+        "Name": "900 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0c0",
+        "IsTransient": false,
+        "Id": 315584,
+        "Pinned": false
+      },
+      {
+        "Name": "900 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0c1",
+        "IsTransient": false,
+        "Id": 315585,
+        "Pinned": false
+      },
+      {
+        "Name": "门_M1221",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0c6",
+        "IsTransient": false,
+        "Id": 315590,
+        "Pinned": false
+      },
+      {
+        "Name": "门_M1321",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0c7",
+        "IsTransient": false,
+        "Id": 315591,
+        "Pinned": false
+      },
+      {
+        "Name": "门_M1321",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0ca",
+        "IsTransient": false,
+        "Id": 315594,
+        "Pinned": false
+      },
+      {
+        "Name": "门_M1321",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0cb",
+        "IsTransient": false,
+        "Id": 315595,
+        "Pinned": false
+      },
+      {
+        "Name": "门_M1321",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0cc",
+        "IsTransient": false,
+        "Id": 315596,
+        "Pinned": false
+      },
+      {
+        "Name": "门_M1321",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0d3",
+        "IsTransient": false,
+        "Id": 315603,
+        "Pinned": false
+      },
+      {
+        "Name": "门_M1321",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0d4",
+        "IsTransient": false,
+        "Id": 315604,
+        "Pinned": false
+      },
+      {
+        "Name": "门_M1321",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0d8",
+        "IsTransient": false,
+        "Id": 315608,
+        "Pinned": false
+      },
+      {
+        "Name": "门_M1321",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0d9",
+        "IsTransient": false,
+        "Id": 315609,
+        "Pinned": false
+      },
+      {
+        "Name": "门_M1321",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0da",
+        "IsTransient": false,
+        "Id": 315610,
+        "Pinned": false
+      },
+      {
+        "Name": "1000 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0db",
+        "IsTransient": false,
+        "Id": 315611,
+        "Pinned": false
+      },
+      {
+        "Name": "1000 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0dc",
+        "IsTransient": false,
+        "Id": 315612,
+        "Pinned": false
+      },
+      {
+        "Name": "1000 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0dd",
+        "IsTransient": false,
+        "Id": 315613,
+        "Pinned": false
+      },
+      {
+        "Name": "1000 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0de",
+        "IsTransient": false,
+        "Id": 315614,
+        "Pinned": false
+      },
+      {
+        "Name": "1000 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0df",
+        "IsTransient": false,
+        "Id": 315615,
+        "Pinned": false
+      },
+      {
+        "Name": "1000 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0e0",
+        "IsTransient": false,
+        "Id": 315616,
+        "Pinned": false
+      },
+      {
+        "Name": "1000 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0e1",
+        "IsTransient": false,
+        "Id": 315617,
+        "Pinned": false
+      },
+      {
+        "Name": "1000 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0e2",
+        "IsTransient": false,
+        "Id": 315618,
+        "Pinned": false
+      },
+      {
+        "Name": "1000 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0e3",
+        "IsTransient": false,
+        "Id": 315619,
+        "Pinned": false
+      },
+      {
+        "Name": "1000 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0e4",
+        "IsTransient": false,
+        "Id": 315620,
+        "Pinned": false
+      },
+      {
+        "Name": "900 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0e5",
+        "IsTransient": false,
+        "Id": 315621,
+        "Pinned": false
+      },
+      {
+        "Name": "900 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0e6",
+        "IsTransient": false,
+        "Id": 315622,
+        "Pinned": false
+      },
+      {
+        "Name": "1000 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0e9",
+        "IsTransient": false,
+        "Id": 315625,
+        "Pinned": false
+      },
+      {
+        "Name": "900 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0ea",
+        "IsTransient": false,
+        "Id": 315626,
+        "Pinned": false
+      },
+      {
+        "Name": "1000 x 2100 mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0eb",
+        "IsTransient": false,
+        "Id": 315627,
+        "Pinned": false
+      },
+      {
+        "Name": "ZMM12521",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0ec",
+        "IsTransient": false,
+        "Id": 315628,
+        "Pinned": false
+      },
+      {
+        "Name": "ZMM12521",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d0ee",
+        "IsTransient": false,
+        "Id": 315630,
+        "Pinned": false
+      },
+      {
+        "Name": "M0821",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d1f8",
+        "IsTransient": false,
+        "Id": 315896,
+        "Pinned": false
+      },
+      {
+        "Name": "M0821",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d1f9",
+        "IsTransient": false,
+        "Id": 315897,
+        "Pinned": false
+      },
+      {
+        "Name": "M0821",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d1fa",
+        "IsTransient": false,
+        "Id": 315898,
+        "Pinned": false
+      },
+      {
+        "Name": "电梯门900*2100",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d1fb",
+        "IsTransient": false,
+        "Id": 315899,
+        "Pinned": false
+      },
+      {
+        "Name": "电梯门900*2100",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d1fc",
+        "IsTransient": false,
+        "Id": 315900,
+        "Pinned": false
+      },
+      {
+        "Name": "电梯门900*2100",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d1fd",
+        "IsTransient": false,
+        "Id": 315901,
+        "Pinned": false
+      },
+      {
+        "Name": "电梯门900*2100",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d1fe",
+        "IsTransient": false,
+        "Id": 315902,
+        "Pinned": false
+      },
+      {
+        "Name": "电梯门900*2100",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d1ff",
+        "IsTransient": false,
+        "Id": 315903,
+        "Pinned": false
+      },
+      {
+        "Name": "电梯门1100*2100",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "9b443159-8b89-40ee-ae49-ab154d8b5ca3-0004d201",
+        "IsTransient": false,
+        "Id": 315905,
+        "Pinned": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "设计喷雾强度和持续喷雾时间应满足规范要求。",
+    "result": "待确定。此建筑未查找到水喷雾灭火系统。",
+    "name": "3.1.2",
+    "method": "XF00009",
+    "classificationType": 1,
+    "Elements": [],
+    "options":9,
+    "optionsID":"59874353-EBC8-38FE-90EC-2BD23AC2A373"
+  },
+  {
+    "id": 53,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "水雾喷头的工作压力，当用于灭火时不应小于0. 35MPa；用于防护冷却时不应小于0.2MPa；但对于甲B、乙、丙类液体储罐不应小于0.15MPa。",
+    "result": "满足。此建筑所用的水雾喷头参数符合要求。",
+    "name": "3.1.3",
+    "method": "XF00010",
+    "classificationType": 1,
+    "Elements": [],
+    "options":9,
+    "optionsID":"CBB12FD7-51B7-2349-081E-0A82068DD353"
+  },
+  {
+    "id": 54,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "热气溶胶预制灭火系统不应设置在人员密集场所、有爆炸危险的场所及有超净要求的场所。K型及其他型热气溶胶预制灭火系统不得用于电子计算机房、通讯机房等场所，不适用以下场所：",
+    "result": "待确定。此建筑BIM模型未查找到热气溶胶预制灭火系统。",
+    "name": "3.2.3",
+    "method": "XF00011",
+    "classificationType": 1,
+    "Elements": [],
+    "options":3,
+    "optionsID":"F62773B2-75D1-2B58-B80D-F85231B06CB4"
+  },
+  {
+    "id": 55,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "建筑高度大于100m 的民用建筑，其楼板的耐火极限不应低于2.00h。 ",
+    "result": "满足。此建筑建筑高度为 95.45 米,不在规范范围内。",
+    "name": "5.1.4",
+    "method": "XF00013",
+    "classificationType": 1,
+    "Elements": [],
+    "options":3,
+    "optionsID":"F2136663-504E-4CBD-73E2-38E1476C3139"
+  },
+  {
+    "id": 56,
+    "type": "强制性条文",
+    "status": false,
+    "basis": "一、二级耐火等级建筑的屋面板应采用不燃材料。",
+    "result": "不满足。此建筑耐火等级为 一级 ,屋面板未完全采用不燃材料，具体如下:\r\n构件(ID=484437)未采用不燃材料；构件(ID=484496)未采用不燃材料；",
+    "name": "5.1.5",
+    "method": "XF00014",
+    "classificationType": 1,
+    "options":3,
+    "optionsID":"4C065637-7BD4-6390-377E-DC4908FBA10B",
+    "Elements": [
+      {
+        "Name": "宽飘板 - 150mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "adae986b-6881-4f13-ad47-849af9e18ee4-00076455",
+        "IsTransient": false,
+        "Id": 484437,
+        "Pinned": false
+      },
+      {
+        "Name": "宽飘板 - 150mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "adae986b-6881-4f13-ad47-849af9e18ee4-00076490",
+        "IsTransient": false,
+        "Id": 484496,
+        "Pinned": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "type": "强制性条文",
+    "status": false,
+    "basis": "二级耐火等级建筑内采用难燃性墙体的房间隔墙，其耐火极限不应低于0.75h；当房间的建筑面积不大于l00m2时，房间隔墙可采用耐火极限不低于0.50h的难燃性墙体或耐火极限不低于0.30h的不燃性墙体。",
+    "result": "不满足。此建筑耐火等级为 一级 ,房间隔墙未采用难燃性墙体，耐火极限不符合规定；房间的建筑面积不大于l00m2，房间隔墙耐火极限不符合规定。",
+    "name": "5.1.6",
+    "method": "XF00015",
+    "classificationType": 1,
+    "options":3,
+    "optionsID":"283A533C-E636-9674-157E-B4654230D4C0",
+    "Elements": [
+      {
+        "Name": "常规 - 300mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "b5b6c886-212a-4b91-b10c-8961a78eb22a-0006c63f",
+        "IsTransient": false,
+        "Id": 443967,
+        "Pinned": false
+      },
+      {
+        "Name": "常规 - 200mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "b5b6c886-212a-4b91-b10c-8961a78eb22a-0006c6e1",
+        "IsTransient": false,
+        "Id": 444129,
+        "Pinned": false
+      },
+      {
+        "Name": "常规 - 200mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "b5b6c886-212a-4b91-b10c-8961a78eb22a-0006c795",
+        "IsTransient": false,
+        "Id": 444309,
+        "Pinned": false
+      },
+      {
+        "Name": "常规 - 200mm",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "b5b6c886-212a-4b91-b10c-8961a78eb22a-0006c796",
+        "IsTransient": false,
+        "Id": 444310,
+        "Pinned": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "建筑高度大于27m，但不大于54m的住宅建筑，每个单元设置一座疏散楼梯时，疏散楼梯应通至屋面，且单元之间的疏散楼梯应能通过屋面连通，户门应采用乙级防火门。当不能通至屋面或不能通过屋面连通时，应设置2个安全出口。 ",
+    "result": "满足。此建筑建筑类型为 公共建筑 ,建筑高度为 95.45 米。不在规定范围内。",
+    "name": "5.5.26",
+    "method": "XF00016",
+    "classificationType": 1,
+    "options":6,
+    "optionsID":"2D4D4CFE-F07D-1606-D9BD-77141C9EF423",
+    "Elements": []
+  },
+  {
+    "id": 59,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "住宅单元的疏散楼梯，当分散设置确有困难且任一户门至最近疏散楼梯间入口的距离不大于10m 时，可采用剪刀楼梯间，但应符合下列规定： ",
+    "result": "不满足。此建筑建筑类型为 公共建筑 。不在规定范围内。",
+    "name": "5.5.28",
+    "method": "XF00017",
+    "classificationType": 1,
+    "options":8,
+    "optionsID":"6980EBF2-918E-28CA-686C-2CE2A17A1836",
+    "Elements": []
+  },
+  {
+    "id": 60,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "下列高层民用建筑或场所应设置自动灭火系统，并宜采用自动喷水灭火系统： \r\n    1 一类高层公共建筑（除游泳池、溜冰场外）及其地下、半地下室； \r\n    2 二类高层公共建筑及其地下、半地下室的公共活动用房、走道、办公室和旅馆的客房、可燃物品库房、自动扶梯底部； \r\n    3 高层民用建筑内的歌舞娱乐放映游艺场所； \r\n    4 建筑高度大于100m的住宅建筑。 \r\n",
+    "result": "满足。此建筑建筑类型为 公共建筑 (高层)，建筑高度为 95.45 米。不在规定范围内。",
+    "name": "8.3.3",
+    "method": "XF00018",
+    "classificationType": 1,
+    "options":8,
+    "optionsID":"8D484316-F3FD-83A1-58EE-24E71A87660A",
+    "Elements": []
+  },
+  {
+    "id": 61,
+    "type": "强制性条文",
+    "status": false,
+    "basis": "不同耐火等级建筑的允许建筑高度或层数、防火分区最大允许建筑面积表。\r\n\t        注：1 表中规定的防火分区最大允许建筑面积，当建筑内设置自动灭火系统时，可按本表的规定增加1.0倍；\r\n\t        局部设置时，防火分区的增加面积可按该局部面积的1.0倍计算。\r\n\t        2 裙房与高层建筑主体之间设置防火墙时，裙房的防火分区可按单、多层建筑的要求确定。\r\n          ",
+    "result": "最大防火面积为：78404.2165994427平方米,不满足规范要求小于500平方米。",
+    "name": "5.3.1",
+    "method": "XF00019",
+    "classificationType": 1,
+    "options":3,
+    "optionsID":"3D96A86D-56E8-126D-D0D3-0E9E701940D5",
+    "Elements": [
+      {
+        "Name": "房间 127",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "abc15d0a-7f9e-4c44-be8c-745f9bd07953-00088663",
+        "IsTransient": false,
+        "Id": 558691,
+        "Pinned": false
+      },
+      {
+        "Name": "房间 128",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "abc15d0a-7f9e-4c44-be8c-745f9bd07953-00088913",
+        "IsTransient": false,
+        "Id": 559379,
+        "Pinned": false
+      },
+      {
+        "Name": "房间 129",
+        "IsValidObject": true,
+        "ViewSpecific": false,
+        "UniqueId": "abc15d0a-7f9e-4c44-be8c-745f9bd07953-00088939",
+        "IsTransient": false,
+        "Id": 559417,
+        "Pinned": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "一、二级耐火等级建筑内的商店营业厅、展览厅，当设置自动灭火系统和火灾自动报警系统并采用不燃或难燃装修材料时，其每个防火分区的最大允许建筑面积应符合下列规定\r\n          1 设置在高层建筑内时，不应大于4000平方米；\r\n          2 设置在单层建筑或仅设置在多层建筑的首层内时，不应大于10000平方米；\r\n          3 设置在地下或半地下时，不应大于2000平方米。\r\n          ",
+    "result": null,
+    "name": "5.3.4",
+    "method": "XF00020",
+    "classificationType": 1,
+    "options":3,
+    "optionsID":"354159D7-4252-180F-C122-ED408616665C",
+    "Elements": []
+  },
+  {
+    "id": 63,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "商店建筑、展览建筑采用三级耐火等级建筑时，不应超过2 层；采用四级耐火等级建筑时，应为单层。营业厅、展览厅设置在三级耐火等级的建筑内时，应布置在首层或二层；设置在四级耐火等级的建筑内时，应布置在首层。\r\n       营业厅、展览厅不应设置在地下三层及以下楼层。地下或半地下营业厅、展览厅不应经营、储存和展示甲、乙类火灾危险性物品。\r\n          ",
+    "result": null,
+    "name": "5.4.3",
+    "method": "XF00022",
+    "classificationType": 1,
+    "options":3,
+    "optionsID":"3E48F959-FADC-161F-0ADA-9F86E76BC453",
+    "Elements": []
+  },
+  {
+    "id": 64,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "高层住宅建筑应设置火灾自动报警系统，并在公共部位设置具有语音功能的火灾声警报装置或应急广播：\r\n\t1、建筑高度大于100m的住宅建筑，应设置火灾自动报警系统；\r\n\t2、建筑高度大于54m 但不大于100m 的住宅建筑，其公共部位应设置火灾自动报警系统，套内宜设置火灾探测器；\r\n\t3、建筑高度不大于54m 的高层住宅建筑，其公共部位宜设置火灾自动报警系统。当设置需联动控制的消防设施时，公共部位应设置火灾自动报警系统。",
+    "result": "满足。此建筑建筑类型为 公共建筑 (高层)，建筑高度为 95.45 米。不在规定范围内。",
+    "name": "8.4.2",
+    "method": "XF00023",
+    "classificationType": 1,
+    "options":8,
+    "optionsID":"98B09CEC-E0F6-DC0F-5415-3FDCB77B89B9",
+    "Elements": []
+  },
+  {
+    "id": 65,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "住宅应设室内给水排水系统",
+    "result": "满足。此建筑非住宅建筑，符合室内给排水系统要求",
+    "name": "5.3.2",
+    "method": "JPS00001",
+    "classificationType": 1,
+    "options":8,
+    "optionsID":"989BB8B0-C913-548F-DA22-C162B47710ED",
+    "Elements": []
+  },
+  {
+    "id": 66,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "8层及8层以上的住宅建筑应设置室内消防给水设施",
+    "result": "满足。此建筑楼层小于8层或者非住宅建筑，符合室内消防给水设施要求",
+    "name": "5.3.2",
+    "method": "JPS00002",
+    "classificationType": 1,
+    "options":9,
+    "optionsID":"88D1D3D5-FE83-F82B-29D6-B1B2EFE754E6",
+    "Elements": []
+  },
+  {
+    "id": 67,
+    "type": "强制性条文",
+    "status": true,
+    "basis": "35层及35层以上的住宅建筑应设置自动喷水灭火系统",
+    "result": "满足。此建筑楼层小于35层或者非住宅建筑，符合自动喷水灭火系统要求",
+    "name": "5.3.2",
+    "method": "JPS00003",
+    "classificationType": 1,
+    "options":9,
+    "optionsID":"652605A0-D484-7E6C-C230-396F6AC06D6F",
+    "Elements": []
+  }
+]

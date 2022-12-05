@@ -1,0 +1,201 @@
+.ant-spin {
+  background: transparent;
+  margin: 40px auto 0;
+  display: block;
+}
+
+#cesiumDiv {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.camera-action {
+  padding: 10px;
+  height: 50px;
+}
+
+.camera-list {
+  width: 100%;
+  height: calc(100% - 120px);
+  padding: 10px;
+  z-index: -1;
+  overflow-y: auto;
+  margin-top: 35px;
+}
+
+.cameraListFilter {
+  width: 100%;
+  height: calc(100% - 50px);
+  padding: 20px;
+  z-index: -1;
+  overflow-y: auto;
+}
+
+.list-thumbnail {
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  position: relative;
+  cursor: pointer;
+}
+
+.list-detail {
+  width: 100%;
+  height: 100px;
+}
+
+#pic-left {
+  float: left;
+  width: 40%;
+  height: 98%;
+}
+
+#pic-left img {
+  width: 100%;
+  height: 100px;
+  float: left;
+}
+
+.detail-right {
+  float: right;
+  width: 55%;
+  height: 100%;
+  margin-left: 10px;
+  padding-top: 20px;
+}
+
+.detail-list {
+  height: 30px;
+  line-height: 30px;
+}
+
+.detail-list.span {
+  float: left;
+  height: 30px;
+  line-height: 30px;
+}
+
+.list-thumbnail img {
+  width: 100%;
+  height: 150px;
+}
+
+.editFormPlace img {
+  width: 98%;
+  height: 98%;
+}
+
+.list-thumbnail p {
+  text-align: center;
+  height: 30px;
+  line-height: 30px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.certainBtn {
+  float: right;
+}
+
+.editBtn {
+  float: right;
+}
+
+.deleteBtn {
+  float: right;
+}
+
+.editImg {
+  width: 90%;
+  height: 100px;
+  padding-left: 15px;
+}
+
+.editFormPlace {
+  margin-left: 20px;
+  width: 70%;
+  height: 100px;
+  border: 1px solid #ccc;
+  float: left;
+  padding-left: 15px;
+}
+
+.editNewPlace {
+  margin-top: 65px;
+  float: right;
+}
+
+.additionalAll {
+  margin-top: 35px;
+  margin-left: 35px;
+  width: 80%;
+  height: 160px;
+  border: 1px solid #ccc;
+  position: relative;
+  /* padding-left:15px */
+}
+
+.additionalTitle {
+  height: 30px;
+  border-bottom: 1px solid #ccc;
+}
+
+.addtionalFunc {
+  /* float: right;
+    margin: 0,auto; */
+  position: absolute;
+  left: 80%;
+  bottom: 20%;
+}
+
+.addf-box {
+  margin-left: 10px;
+  height: 128px;
+  overflow: auto;
+}
+
+.addf-box li {
+  list-style: none;
+}
+
+.addf-box .icon {
+  padding: 5px;
+}
+
+.list-action {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
+}
+
+.list-action .ibox {
+  background: rgba(0, 0, 0, 0.35);
+  color: #fff;
+  height: 28px;
+  width: 28px;
+  display: inline-block;
+  border-radius: 50%;
+  text-align: center;
+  margin-left: 5px;
+}
+
+.list-action .icon {
+  font-size: 16px;
+  padding: 5px;
+}
+
+.list-action .ibox:hover {
+  background: #1890ff;
+}
+
+.itemType.cur {
+  background: #e6f7ff;
+}
+.viewPoint-tag {
+  padding: 10px;
+  text-align: center;
+}

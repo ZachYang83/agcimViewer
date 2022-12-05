@@ -1,0 +1,33 @@
+{
+    "tags": {
+        "allowUnknownTags": true,
+        "dictionaries": ["jsdoc","closure"]
+    },
+    "source": {
+        "include": ["src/sdk"],
+        "exclude": [],
+        "includePattern": ".+\\.js(doc)?$",
+        "excludePattern": "(^|\\/|\\\\)_"
+    },
+    "plugins": [],
+    "templates": {
+        "cleverLinks": false,
+        "monospaceLinks": false, 
+          "outputSourceFiles": true, 
+          "outputSourcePath": true,
+          "systemName": "Home",
+          "footer": "",  
+          "navType": "vertical",    
+          "theme": "journal",// "journal",simplex
+          "linenums": true, 
+          "methodHeadingReturns": true 
+    },
+    "opts": {
+        // "template": "./node_modules/ink-docstrap/template",
+        "destination": "./dist/docs/",  
+        "recurse": true ,
+        "debug": false, 
+        "readme": "./Tool/README.md"  
+    }
+}
+ 

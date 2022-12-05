@@ -1,0 +1,75 @@
+.index-page {
+  height: 700px;
+}
+.popup-box1 {
+  width: 400px;
+  height: 600px;
+}
+.index-page .home-icon {
+  font-size: 16px;
+  margin: 0 0 10px 10px;
+}
+.index-page .rt .locate {
+  color: white;
+  border: 0;
+  margin-right: 5px;
+}
+.index-page .projitem {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  align-content: flex-start;
+  height: 100;
+  background-color: white;
+  margin: 0 0 5px 0;
+  padding: 0 0 5px 0;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.37);
+  /* border-radius: 5px; */
+  /* border-color: rgba(128, 128, 128, 0.37); */
+}
+
+.index-page .projitem:hover {
+  background-color: rgba(247, 238, 175, 0.678);
+  cursor: pointer;
+}
+
+.index-page .search-boxbar {
+  padding: 10px 20px;
+  /* margin-bottom: 10px; */
+}
+.index-page .list {
+  padding: 0 20px;
+  height: calc(100% - 180px);
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.index-page .list .item {
+  display: flex;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+.index-page .list .item:hover {
+  background-color: rgba(247, 238, 175, 0.2);
+  cursor: pointer;
+}
+.index-page .item .lt {
+  margin-right: 10px;
+}
+.index-page .item .rt {
+  position: relative;
+  width: 100%;
+}
+.index-page .item .rt .btm {
+  position: absolute;
+  bottom: 0;
+}
+.index-page .anticon-environment {
+  font-size: 20px;
+}
+.index-page .more {
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+}

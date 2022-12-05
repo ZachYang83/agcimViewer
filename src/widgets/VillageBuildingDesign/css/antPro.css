@@ -1,0 +1,16 @@
+.ag-villageBuilding .ant-layout-header {
+    height: auto;
+    padding: 0 20px;
+    line-height: 40px;
+    color: #ffffff;
+}
+.ag-villageBuilding .ant-layout-content{
+    padding-top: 10px;
+}
+.supermarket_group .ant-layout-footer {
+    padding: 20px 10px;
+    color: rgba(0, 0, 0, 0.65);
+    font-size: 14px;
+    background: #f0f2f5;
+    text-align: right;
+}

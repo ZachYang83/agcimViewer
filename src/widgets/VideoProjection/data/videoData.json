@@ -1,0 +1,130 @@
+[
+    {
+        "id":"65F77687-6CC6-C7AE-2B0C-177C58699E4C",
+        "title": "保利天悦西南角落",
+        "type": 3,
+        "url": "http://81.71.142.155:6700/video/featureIdentification/1_1cz.mp4",
+        "position": {
+            "x": 113.37182590,
+            "y": 23.10228270,
+            "z": 190
+        },
+        "endPosition": {
+            "x": 113.37182590,
+            "y": 23.10228270,
+            "z": 190
+        },
+        "rotation": {
+            "x": -90,
+            "y": 0,
+            "z": 0
+        },
+        "fov": 80,
+        "far": 300,
+        "near": 1,
+        "aspectRatio": 1,
+        "alpha": 1,
+        "debugFrustum": true,
+        "orientation": {
+            "heading": "-112",
+            "pitch": "112",
+            "roll": 0.0
+        }
+    },
+    {
+        "id":"E59D4200-CA41-8B9B-E184-D0727DEB0D17",
+        "title": "保利天悦花园",
+        "type": 3,
+        "url": "http://81.71.142.155:6700/video/featureIdentification/hy.mp4",
+        "position": {
+            "x": 113.37280458,
+            "y": 23.10397953,
+            "z": 190
+        },
+        "endPosition": {
+            "x": 113.37280458,
+            "y": 23.10397953,
+            "z": 190
+        },
+        "rotation": {
+            "x": -90,
+            "y": 0,
+            "z": 0
+        },
+        "fov": 77,
+        "far": 300,
+        "near": 1,
+        "aspectRatio": 1,
+        "alpha": 1,
+        "debugFrustum": true,
+        "orientation": {
+            "heading": "178",
+            "pitch": "178",
+            "roll": 0.0
+        }
+    },
+    {
+        "id":"3C2F4261-AE8E-A09E-5E63-65EDB0F038ED",
+        "title": "保利天悦花园东边",
+        "type": 3,
+        "url": "http://81.71.142.155:6700/video/featureIdentification/1_5cz.mp4",
+        "position": {
+            "x": 113.37569985,
+            "y": 23.10387817,
+            "z": 190
+        },
+        "endPosition": {
+            "x": 113.37569985,
+            "y": 23.10387817,
+            "z": 190
+        },
+        "rotation": {
+            "x": -90,
+            "y": 0,
+            "z": 0
+        },
+        "fov": 80,
+        "far": 300,
+        "near": 1,
+        "aspectRatio": 1,
+        "alpha": 1,
+        "debugFrustum": true,
+        "orientation": {
+            "heading": "-115",
+            "pitch": "115",
+            "roll": 0.0
+        }
+    },
+    {
+        "id":"3C2F4261-AE8E-A09E-5E63-65EDB0F038EF",
+        "title": "保利天悦花园倾斜",
+        "type": 3,
+        "url": "http://81.71.142.155:6700/video/featureIdentification/1_1qx.mp4",
+        "position": {
+            "x": 113.37182590,
+            "y": 23.10228270,
+            "z": 190
+        },
+        "endPosition": {
+            "x":113.37345544,
+            "y": 23.10298301,
+            "z": 0
+        },
+        "rotation": {
+            "x": -90,
+            "y": 0,
+            "z": 0
+        },
+        "fov": 80,
+        "far": 1000.0,
+        "near": 1.0,
+        "aspectRatio": 1,
+        "alpha": 1,
+        "debugFrustum": true,
+        "orientation": {
+            "heading": "-115",
+            "pitch": "115",
+            "roll": 0.0
+        }
+    }
+]

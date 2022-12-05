@@ -1,0 +1,85 @@
+.detail{
+    padding-right: 5px;
+}
+.save {
+    margin-right: 10px;
+  }
+  .map {
+    height: 100%;
+  }
+  .map #containCesium {
+    height: 100%;
+  }
+  
+  .delete {
+    color: red;
+  }
+  
+  .detail {
+    color: #008cd5;
+  }
+  
+  .add {
+    border: 1px solid #eee;
+    margin: 5px 0;
+    padding: 7px;
+  }
+  
+  #mask {
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 4;
+    top: 0;
+    left: 0;
+  }
+  
+  .mask {
+    width: 300px;
+    height: 250px;
+    background: rgba(255, 255, 255, 1);
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    z-index: 47;
+    border-radius: 5px;
+  }
+  
+  .ag-videoFusion-title {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .ag-videoFusion-title span {
+    float: right;
+    cursor: pointer;
+  }
+  
+  .content {
+    padding: 10px;
+  }
+  
+  .content input {
+    width: 270px;
+    margin-bottom: 15px;
+  }
+
+  .ag-edit{
+      padding: 5px;
+      line-height: 40px;
+  }
+
+  .ag-vertical-item{
+      padding-bottom: 5px;
+  }
+  .ag-option-btn{
+      margin-right: 5px;
+  }
+
+  .ag-number-input{
+      width: 180px;
+  }

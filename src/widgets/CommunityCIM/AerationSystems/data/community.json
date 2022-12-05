@@ -1,0 +1,232 @@
+{
+    "community": [
+        {
+          "id": "1",
+          "phase": "1期",
+          "imglink": "img/p1.png",
+          "location": ""
+        },
+        {
+          "id": "2",
+          "phase": "2期",
+          "imglink": "img/p2.png",
+          "location": ""
+        },
+        {
+          "id": "3",
+          "phase": "3期",
+          "imglink": "img/p3.png",
+          "location": ""
+        },
+
+        {
+          "id": "3",
+          "phase": "4期",
+          "imglink": "img/p3.png",
+          "location": ""
+        },
+        {
+          "id": "3",
+          "phase": "5期",
+          "imglink": "img/p3.png",
+          "location": ""
+        },
+        {
+          "id": "3",
+          "phase": "6期",
+          "imglink": "img/p3.png",
+          "location": ""
+        },
+        {
+          "id": "3",
+          "phase": "7期",
+          "imglink": "img/p3.png",
+          "location": ""
+        },
+        {
+          "id": "3",
+          "phase": "8期",
+          "imglink": "img/p3.png",
+          "location": ""
+        }
+      ],
+      "building": [
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "bdname": "A1",
+          "location": ""
+        },
+        {
+          "phaseid": "1",
+          "bdid": "2",
+          "bdname": "A2",
+          "location": ""
+        }
+      ],
+      "levels": [
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "1",
+          "lvlname": 1,
+          "imglink": "img/AP1A1L1.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 2,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "2",
+          "lvlid": "1",
+          "lvlname": 1,
+          "imglink": "img/AP1A2L1.png"
+        },
+        {
+          "phaseid": "2",
+          "bdid": "1",
+          "lvlid": "1",
+          "lvlname": 2,
+          "imglink": "img/AP2A1L1.png"
+        },
+        {
+          "phaseid": "3",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 2,
+          "imglink": "img/BP1A1L1.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 3,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 4,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 5,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 6,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 7,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 8,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 9,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 10,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 11,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 12,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 13,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 14,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 15,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 16,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": 17,
+          "imglink": "img/AP1A1L2.png"
+        },
+        {
+          "phaseid": "1",
+          "bdid": "1",
+          "lvlid": "2",
+          "lvlname": -1,
+          "imglink": "img/AP1A1L2.png"
+        }
+      ],
+      "people": [
+        {
+          "name": "张三",
+          "id": "000000001",
+          "room": "311",
+          "level": 3,
+          "location": 0.00009
+        },
+        {
+          "name": "张二",
+          "id": "000000002",
+          "room": "211",
+          "level": 2,
+          "location": -0.00009
+        }
+      ]
+}

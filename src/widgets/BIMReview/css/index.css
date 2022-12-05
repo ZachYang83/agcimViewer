@@ -1,0 +1,75 @@
+.mtree-box {
+  position: relative;
+  text-align: left;
+  height: 100%;
+  box-sizing: border-box;
+  padding-top: 10px;
+  border-top: 1px solid #eee;
+}
+
+.tree-box {
+  margin: 10px 0;
+  border-top: 1px solid #eee;
+  height: calc(100% - 100px);
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding-left: 10px;
+}
+
+.txt-ellipsis {
+  display: inline-block;
+  max-width: 140px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  letter-spacing: 1px;
+}
+
+.review-project {
+  padding: 0 0 0 20px;
+}
+.project-upload {
+  position: absolute;
+  top: 50%;
+  right: 65px;
+  padding: 4px;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.5);
+  -webkit-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+}
+.project-upload :hover {
+  color: #1890ff;
+}
+.project-update {
+  position: absolute;
+  top: 50%;
+  right: 35px;
+  padding: 4px;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.5);
+  transform: translate(0, -50%);
+}
+.project-update :hover {
+  color: #1890ff;
+}
+.project-delete {
+  position: absolute;
+  top: 50%;
+  right: 5px;
+  padding: 4px;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.5);
+  transform: translate(0, -50%);
+}
+.project-delete :hover {
+  color: #1890ff;
+}
+/deep/ .ant-tree li {
+  position: relative;
+}
+
+/deep/ .ant-tree li > span.ant-tree-node-content-wrapper {
+  width: calc(100% - 30px);
+  position: relative;
+}

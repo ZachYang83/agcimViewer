@@ -1,0 +1,94 @@
+.cesium-viewer-toolbar, /* 右上角按钮组 */
+.cesium-viewer-animationContainer, /* 左下角动画控件 */
+.cesium-viewer-timelineContainer /* 时间线 */
+ {
+
+}
+.cesium-viewer-bottom {
+  /* logo信息 */
+  display: none !important;
+}
+.epidemic-lengend .color {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+}
+#detailBubble {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 5px;
+  color: #fff;
+}
+#detailBubble .regionInfo {
+  float: left;
+  line-height: 20px;
+  font-size: 12px;
+}
+#detailBubble .regionDetaiBtn {
+  float: left;
+  height: 40px;
+  line-height: 40px;
+  border-left: 1px solid #fff;
+  padding-left: 5px;
+  cursor: pointer;
+  font-size: 12px;
+  margin-left: 5px;
+}
+#detailBubble .triangleDown{
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 20px solid rgba(0, 0, 0, 0.5);
+  position: absolute;
+  bottom: -20px;
+  left: calc(50% - 10px);
+}
+.returnWork-box .ant-tabs-nav .ant-tabs-tab{
+  margin: 0px;
+  text-align: center;
+  width: 50%;
+  color: #fff;
+  padding: 8px;
+}
+.returnWork-box .ant-tabs-nav .ant-tabs-tab-active{
+  color: #1890ff;
+}
+.returnWork-box .ant-tabs-nav,.ant-tabs-nav-animated{
+  width: 100%;
+}
+.returnWork-box .ant-tabs-ink-bar,.ant-tabs-ink-bar-animated{
+  width: 50%;
+}
+.returnWork-box .ant-tabs-bar.ant-tabs-top-bar{
+  margin: 0px;
+}
+
+.returnWork-box .migrate-table {
+  width: 100%;
+}
+.returnWork-box .table-box{
+  padding: 10px;
+}
+.returnWork-box .migrate-table tr{
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
+.returnWork-box .migrate-table td{
+  padding: 5px;
+}
+.returnWork-box .migrate-table td:nth-child(1){
+  width: 50px;
+}
+.returnWork-box .migrate-table td:nth-child(2){
+  width: 180px;
+}
+.returnWork-box .migrate-table td:nth-child(3){
+  width: 80px;
+}

@@ -1,0 +1,264 @@
+{
+  "colorData" : [
+    {
+      "id": "red",
+      "class": "blendColor1",
+      "colorArray": [
+        {
+          "color": "rgba(255, 252, 212)",
+          "opacity": 0
+        },
+        {
+          "color": "rgba(231, 174, 157)",
+          "opacity": 25
+        },
+        {
+          "color": "rgba(206, 96, 101)",
+          "opacity": 50
+        },
+        {
+          "color": "rgba(136, 49, 79)",
+          "opacity": 75
+        },
+        {
+          "color": "rgba(66, 2, 57)",
+          "opacity": 100
+        }
+      ]
+    },
+    {
+      "id": "orange",
+      "class": "blendColor2",
+      "colorArray": [
+        {
+          "color": "rgba(255, 239, 220)",
+          "opacity": 0
+        },
+        {
+          "color": "rgba(237, 172, 144)",
+          "opacity": 25
+        },
+        {
+          "color": "rgba(218, 104, 67)",
+          "opacity": 50
+        },
+        {
+          "color": "rgba(160, 53, 35)",
+          "opacity": 75
+        },
+        {
+          "color": "rgba(102, 2, 2)",
+          "opacity": 100
+        }
+      ]
+    },
+    {
+      "id": "yellow",
+      "class": "blendColor3",
+      "colorArray": [
+        {
+          "color": "rgba(254, 235, 226)",
+          "opacity": 0
+        },
+        {
+          "color": "rgba(251, 180, 185)",
+          "opacity": 25
+        },
+        {
+          "color": "rgba(247, 104, 161)",
+          "opacity": 50
+        },
+        {
+          "color": "rgba(197, 27, 138)",
+          "opacity": 75
+        },
+        {
+          "color": "rgba(122, 1, 119)",
+          "opacity": 100
+        }
+      ]
+    },
+    {
+      "id": "green",
+      "class": "blendColor4",
+      "colorArray": [
+        {
+          "color": "rgba(255, 252, 212)",
+          "opacity": 0
+        },
+        {
+          "color": "rgba(200, 188, 212)",
+          "opacity": 25
+        },
+        {
+          "color": "rgba(144, 124, 212)",
+          "opacity": 50
+        },
+        {
+          "color": "rgba(80, 70, 146)",
+          "opacity": 75
+        },
+        {
+          "color": "rgba(16, 16, 79)",
+          "opacity": 100
+        }
+      ]
+    },
+    {
+      "id": "blue",
+      "class": "blendColor5",
+      "colorArray": [
+        {
+          "color": "rgba(226, 235, 211)",
+          "opacity": 0
+        },
+        {
+          "color": "rgba(200, 224, 159)",
+          "opacity": 25
+        },
+        {
+          "color": "rgba(173, 212, 106)",
+          "opacity": 50
+        },
+        {
+          "color": "rgba(98, 175, 167)",
+          "opacity": 75
+        },
+        {
+          "color": "rgba(45, 128, 120)",
+          "opacity": 100
+        }
+      ]
+    },
+    {
+      "id": "purple",
+      "class": "blendColor6",
+      "colorArray": [
+        {
+          "color": "rgba(235, 230, 223)",
+          "opacity": 0
+        },
+        {
+          "color": "rgba(195, 190, 185)",
+          "opacity": 25
+        },
+        {
+          "color": "rgba(156, 173, 180)",
+          "opacity": 50
+        },
+        {
+          "color": "rgba(64, 167, 185)",
+          "opacity": 75
+        },
+        {
+          "color": "rgba(0, 127, 153)",
+          "opacity": 100
+        }
+      ]
+    },
+    {
+      "id": "pink",
+      "class": "blendColor7",
+      "colorArray": [
+        {
+          "color": "rgba(233, 215, 184)",
+          "opacity": 0
+        },
+        {
+          "color": "rgba(232, 201, 179)",
+          "opacity": 25
+        },
+        {
+          "color": "rgba(197, 156, 164)",
+          "opacity": 50
+        },
+        {
+          "color": "rgba(164, 141, 158)",
+          "opacity": 75
+        },
+        {
+          "color": "rgba(96, 109, 148)",
+          "opacity": 100
+        }
+      ]
+    },
+    {
+      "id": "indigo",
+      "class": "blendColor8",
+      "colorArray": [
+        {
+          "color": "rgba(255, 255, 255)",
+          "opacity": 0
+        },
+        {
+          "color": "rgba(140, 140, 140)",
+          "opacity": 25
+        },
+        {
+          "color": "rgba(73, 73, 73)",
+          "opacity": 50
+        },
+        {
+          "color": "rgba(50, 50, 50)",
+          "opacity": 75
+        },
+        {
+          "color": "rgba(0, 0, 0)",
+          "opacity": 100
+        }
+      ]
+    },
+    {
+      "id": "navy",
+      "class": "blendColor9",
+      "colorArray": [
+        {
+          "color": "rgba(88, 19, 252)",
+          "opacity": 0
+        },
+        {
+          "color": "rgba(28, 194, 253)",
+          "opacity": 25
+        },
+        {
+          "color": "rgba(125, 253, 148)",
+          "opacity": 50
+        },
+        {
+          "color": "rgba(245, 201, 38)",
+          "opacity": 75
+        },
+        {
+          "color": "rgba(255, 43, 24)",
+          "opacity": 100
+        }
+      ]
+    },
+    {
+      "id": "cyan",
+      "class": "blendColor10",
+      "colorArray": [
+        {
+          "color": "rgba(255, 255, 204)",
+          "opacity": 0
+        },
+        {
+          "color": "rgba(161, 218, 180)",
+          "opacity": 25
+        },
+        {
+          "color": "rgba(65, 182, 196)",
+          "opacity": 50
+        },
+        {
+          "color": "rgba(44, 127, 184)",
+          "opacity": 75
+        },
+        {
+          "color": "rgba(37, 52, 148)",
+          "opacity": 100
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+.visual-analysis-box{
+    padding-left: 10px;
+    height: 100%;
+  }
+  .epidemic-home-btn {
+    margin-bottom: 10px;
+    pointer-events: all;
+  }
+  .visual-map{
+    pointer-events: all;
+  }
+  .terrian-map{
+    pointer-events: all;
+  }
+  .sel-monitor-object {
+    margin-bottom: 10px;
+  }
+  .terrian-monitor-object{
+    margin-top: 10px;
+  }
+  #cesiumDiv {
+    margin: 0;
+    padding: 0;
+  }

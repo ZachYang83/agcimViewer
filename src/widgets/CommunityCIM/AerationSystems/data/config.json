@@ -1,0 +1,22 @@
+{
+  "model": {
+    "url": "http://192.168.3.203:7280/Models/Tongfeng_3d/Building_baoli/tileset.json"
+  },
+  "projList": [
+    {
+      "id": "1",
+      "name": "保利天悦A",
+      "imgUrl": "area1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "保利天悦B",
+      "imgUrl": "area2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "保利天悦C",
+      "imgUrl": "area3.jpg"
+    }
+  ]
+}

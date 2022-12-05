@@ -1,0 +1,52 @@
+{
+  "model": {
+    "url": "http://192.168.3.203:7280/Models/Tongfeng_3d/Building_baoli/tileset.json"
+  },
+  "projList": [
+    {
+      "id": "1",
+      "name": "小区1",
+      "imgUrl": "area1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "小区2",
+      "imgUrl": "area2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "小区3",
+      "imgUrl": "area3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "小区1",
+      "imgUrl": "area1.jpg"
+    },
+    {
+      "id": "5",
+      "name": "小区2",
+      "imgUrl": "area2.jpg"
+    },
+    {
+      "id": "6",
+      "name": "小区3",
+      "imgUrl": "area3.jpg"
+    },
+    {
+      "id": "7",
+      "name": "小区1",
+      "imgUrl": "area1.jpg"
+    },
+    {
+      "id": "8",
+      "name": "小区2",
+      "imgUrl": "area2.jpg"
+    },
+    {
+      "id": "9",
+      "name": "小区3",
+      "imgUrl": "area3.jpg"
+    }
+  ]
+}

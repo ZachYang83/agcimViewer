@@ -1,0 +1,24 @@
+.vscroll::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+}
+
+.vscroll::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 4px;
+}
+
+.h4 {
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 1px;
+    border-left: 4px solid #366b9c;
+    text-indent: 8px;
+    text-align: left;
+}
+body{
+    overflow: hidden;
+}
+body p {
+    margin: 0;
+}

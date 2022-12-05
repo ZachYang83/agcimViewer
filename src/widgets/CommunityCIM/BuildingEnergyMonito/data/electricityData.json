@@ -1,0 +1,253 @@
+
+[{
+    "id":1,
+    "floor":"1F",
+    "household":[
+        {
+            "name":"101",
+            "electricityNum":168
+        },
+        {
+            "name":"102",
+            "electricityNum":365
+        }
+    ]
+},
+{
+    "id":2,
+    "floor":"2F",
+    "household":[
+        {
+            "name":"201",
+            "electricityNum":532
+        },
+        {
+            "name":"202",
+            "electricityNum":615
+        }
+    ]
+},
+{
+    "id":3,
+    "floor":"3F",
+    "household":[
+        {
+            "name":"301",
+            "electricityNum":861
+        },
+        {
+            "name":"302",
+            "electricityNum":458
+        }
+    ]
+},
+{
+    "id":4,
+    "floor":"4F",
+    "household":[
+        {
+            "name":"401",
+            "electricityNum":765
+        },
+        {
+            "name":"402",
+            "electricityNum":565
+        }
+    ]
+},
+{
+    "id":5,
+    "floor":"5F",
+    "household":[
+        {
+            "name":"501",
+            "electricityNum":365
+        },
+        {
+            "name":"502",
+            "electricityNum":265
+        }
+    ]
+},
+{
+    "id":6,
+    "floor":"6F",
+    "household":[
+        {
+            "name":"601",
+            "electricityNum":965
+        },
+        {
+            "name":"602",
+            "electricityNum":365
+        }
+    ]
+},
+{
+    "id":7,
+    "floor":"7F",
+    "household":[
+        {
+            "name":"701",
+            "electricityNum":465
+        },
+        {
+            "name":"702",
+            "electricityNum":365
+        }
+    ]
+},
+{
+    "id":8,
+    "floor":"8F",
+    "household":[
+        {
+            "name":"801",
+            "electricityNum":565
+        },
+        {
+            "name":"802",
+            "electricityNum":165
+        }
+    ]
+},
+{
+    "id":9,
+    "floor":"9F",
+    "household":[
+        {
+            "name":"901",
+            "electricityNum":665
+        },
+        {
+            "name":"902",
+            "electricityNum":265
+        }
+    ]
+},
+{
+    "id":10,
+    "floor":"10F",
+    "household":[
+        {
+            "name":"1001",
+            "electricityNum":365
+        },
+        {
+            "name":"1002",
+            "electricityNum":865
+        }
+    ]
+},
+{
+    "id":11,
+    "floor":"11F",
+    "household":[
+        {
+            "name":"1101",
+            "electricityNum":665
+        },
+        {
+            "name":"1102",
+            "electricityNum":365
+        }
+    ]
+},
+{
+    "id":12,
+    "floor":"12F",
+    "household":[
+        {
+            "name":"1201",
+            "electricityNum":365
+        },
+        {
+            "name":"1202",
+            "electricityNum":165
+        }
+    ]
+},
+{
+    "id":13,
+    "floor":"13F",
+    "household":[
+        {
+            "name":"1301",
+            "electricityNum":365
+        },
+        {
+            "name":"1302",
+            "electricityNum":365
+        }
+    ]
+},
+{
+    "id":14,
+    "floor":"14F",
+    "household":[
+        {
+            "name":"1401",
+            "electricityNum":865
+        },
+        {
+            "name":"1402",
+            "electricityNum":465
+        }
+    ]
+},
+{
+    "id":15,
+    "floor":"15F",
+    "household":[
+        {
+            "name":"1501",
+            "electricityNum":465
+        },
+        {
+            "name":"1502",
+            "electricityNum":365
+        }
+    ]
+},
+{
+    "id":16,
+    "floor":"16F",
+    "household":[
+        {
+            "name":"1601",
+            "electricityNum":665
+        },
+        {
+            "name":"1602",
+            "electricityNum":165
+        }
+    ]
+},
+{
+    "id":17,
+    "floor":"17F",
+    "household":[
+        {
+            "name":"1701",
+            "electricityNum":765
+        },
+        {
+            "name":"1702",
+            "electricityNum":565
+        }
+    ]
+},
+{
+    "id":18,
+    "floor":"18F",
+    "household":[
+        {
+            "name":"1801",
+            "electricityNum":365
+        },
+        {
+            "name":"1802",
+            "electricityNum":1365
+        }
+    ]
+}]

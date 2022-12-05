@@ -1,0 +1,233 @@
+.rendering-info {
+    padding: 4px;
+    height: 620px;
+    list-style-type: none;
+    overflow: auto;
+}
+
+.rendering-info::-webkit-scrollbar {
+    width: 4px;
+}
+
+.rendering-info::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 0 5px #506698;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+.rendering-info::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+    border-radius: 0;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.title-font {
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 1px;
+    border-left: 4px solid #366b9c;
+    text-indent: 8px;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.layer-selection-body {
+    height: 40px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.layer-selection-range {
+    height: 40px;
+    width: 100%;
+}
+
+.layer-selection {
+    float: left;
+}
+
+.layer-selection-font {
+    padding-top: 5px;
+    margin-right: 8px;
+}
+
+.layer-selection-field {
+    padding-top: 5px;
+    margin-right: 36px;
+}
+
+.layer-selection-button {
+    width: 80px;
+    margin-left: 20px;
+}
+
+.ant-slider {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: rgba(0, 0, 0, 0.65);
+    font-size: 14px;
+    font-variant: tabular-nums;
+    line-height: 1.5;
+    list-style: none;
+    -webkit-font-feature-settings: 'tnum';
+    font-feature-settings: 'tnum';
+    position: relative;
+    height: 12px;
+    cursor: pointer;
+    -ms-touch-action: none;
+    touch-action: none;
+    margin-left: 83px;
+    padding-top: 10px;
+    width: 68%;
+}
+
+.ant-slider-track {
+    position: absolute;
+    height: 10px;
+    background-color: rgb(0, 150, 136);
+    border-radius: 5px;
+    -webkit-transition: background-color 0.3s;
+    transition: background-color 0.3s;
+}
+
+.ant-slider-handle {
+    width: 18px;
+    height: 18px;
+    border: solid 2px rgb(0, 150, 136);
+}
+
+.layui-inline {
+    *display: inline;
+    *zoom: 1;
+}
+
+#blendColorPicker {
+    display: inline-block;
+    width: 230px;
+    vertical-align: middle;
+    height: 155px;
+    overflow-y: auto;
+    margin-left: 77px;
+    margin-bottom: 15px
+}
+
+#blendColorPicker::-webkit-scrollbar {
+    width: 4px;
+}
+
+#blendColorPicker::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 0 5px #506698;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+#blendColorPicker::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+    border-radius: 0;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.blendColor1 {
+    background: linear-gradient(to top, rgb(255, 252, 212) 0%, rgb(231, 174, 157) 25%, rgb(206, 96, 101) 50%, rgb(136, 49, 79) 75%, rgb(66, 2, 57) 100%);
+}
+
+.blendColor2 {
+    background: linear-gradient(to top, rgb(255, 239, 220) 0%, rgb(237, 172, 144) 25%, rgb(218, 104, 67) 50%, rgb(160, 53, 35) 75%, rgb(102, 2, 2) 100%);
+}
+
+.blendColor3 {
+    background: linear-gradient(to top, rgb(254, 235, 226) 0%, rgb(251, 180, 185) 25%, rgb(247, 104, 161) 50%, rgb(197, 27, 138) 75%, rgb(122, 1, 119) 100%);
+}
+
+.blendColor4 {
+    background: linear-gradient(to top, rgb(255, 252, 212) 0%, rgb(200, 188, 212) 25%, rgb(144, 124, 212) 50%, rgb(80, 70, 146) 75%, rgb(16, 16, 79) 100%);
+}
+
+.blendColor5 {
+    background: linear-gradient(to top, rgb(226, 235, 211) 0%, rgb(200, 224, 159) 25%, rgb(173, 212, 106) 50%, rgb(98, 175, 167) 75%, rgb(45, 128, 120) 100%);
+}
+
+.blendColor6 {
+    background: linear-gradient(to top, rgb(235, 230, 223) 0%, rgb(195, 190, 185) 25%, rgb(156, 173, 180) 50%, rgb(64, 167, 185) 75%, rgb(0, 127, 153) 100%);
+}
+
+.blendColor7 {
+    background: linear-gradient(to top, rgb(233, 215, 184) 0%, rgb(232, 201, 179) 25%, rgb(197, 156, 164) 50%, rgb(164, 141, 158) 75%, rgb(96, 109, 148) 100%);
+}
+
+.blendColor8 {
+    background: linear-gradient(to top, rgb(255, 255, 255) 0%, rgb(140, 140, 140) 25%, rgb(73, 73, 73) 50%, rgb(50, 50, 50) 75%, rgb(0, 0, 0) 100%);
+}
+
+.blendColor9 {
+    background: linear-gradient(to top, rgb(88, 19, 252) 0%, rgb(28, 194, 253) 25%, rgb(125, 253, 148) 50%, rgb(245, 201, 38) 75%, rgb(255, 43, 24) 100%);
+}
+
+.blendColor10 {
+    background: linear-gradient(to top, rgb(255, 255, 204) 0%, rgb(161, 218, 180) 25%, rgb(65, 182, 196) 50%, rgb(44, 127, 184) 75%, rgb(37, 52, 148) 100%);
+}
+
+#blendColorPicker > div:hover {
+    cursor: pointer;
+    border: 2px solid pink;
+}
+
+#blendColorPicker > div {
+    display: inline-block;
+    margin: 3px 5px;
+    width: 25px;
+    height: 150px;
+    vertical-align: middle;
+    box-sizing: border-box;
+}
+
+.blendColorPickerClick{
+    cursor: pointer;
+    border: 2px solid pink;
+}
+
+.button-info {
+    height: 40px;
+    padding-left: 160px;
+    margin-bottom: 15px;
+}
+
+.button-info-application {
+    float: left;
+}
+
+.button-info-clear {
+    float: left;
+    margin-left: 15px;
+}
+
+::v-deep .ant-table-body::-webkit-scrollbar {
+    width: 4px;
+}
+
+::v-deep .ant-table-body::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 0 5px #506698;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+::v-deep .ant-table-body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+    border-radius: 0;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.ColorSlider {
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+    height: 30px;
+    overflow-y: auto;
+    margin-bottom: 15px;
+}
+
+.colorSliderX {
+    width: 200px;
+    height: 30px;
+    margin-left:83px;
+}

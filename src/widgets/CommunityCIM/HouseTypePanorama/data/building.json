@@ -1,0 +1,416 @@
+[{
+    "id": "1",
+    "name": "A1#",
+    "floor": [{
+            "id": 1,
+            "name": "1F",
+            "household": [{
+                    "name": "101",
+                    "electricityNum": 168
+                },
+                {
+                    "name": "102",
+                    "electricityNum": 365
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "2F",
+            "household": [{
+                    "name": "201",
+                    "electricityNum": 532
+                },
+                {
+                    "name": "202",
+                    "electricityNum": 615
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "3F",
+            "household": [{
+                    "name": "301",
+                    "electricityNum": 861
+                },
+                {
+                    "name": "302",
+                    "electricityNum": 458
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "4F",
+            "household": [{
+                    "name": "401",
+                    "electricityNum": 765
+                },
+                {
+                    "name": "402",
+                    "electricityNum": 565
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "5F",
+            "household": [{
+                    "name": "501",
+                    "electricityNum": 365
+                },
+                {
+                    "name": "502",
+                    "electricityNum": 265
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "6F",
+            "household": [{
+                    "name": "601",
+                    "electricityNum": 965
+                },
+                {
+                    "name": "602",
+                    "electricityNum": 365
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "7F",
+            "household": [{
+                    "name": "701",
+                    "electricityNum": 465
+                },
+                {
+                    "name": "702",
+                    "electricityNum": 365
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "8F",
+            "household": [{
+                    "name": "801",
+                    "electricityNum": 565
+                },
+                {
+                    "name": "802",
+                    "electricityNum": 165
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "9F",
+            "household": [{
+                    "name": "901",
+                    "electricityNum": 665
+                },
+                {
+                    "name": "902",
+                    "electricityNum": 265
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "10F",
+            "household": [{
+                    "name": "1001",
+                    "electricityNum": 365
+                },
+                {
+                    "name": "1002",
+                    "electricityNum": 865
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "11F",
+            "household": [{
+                    "name": "1101",
+                    "electricityNum": 665
+                },
+                {
+                    "name": "1102",
+                    "electricityNum": 365
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "12F",
+            "household": [{
+                    "name": "1201",
+                    "electricityNum": 365
+                },
+                {
+                    "name": "1202",
+                    "electricityNum": 165
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "13F",
+            "household": [{
+                    "name": "1301",
+                    "electricityNum": 365
+                },
+                {
+                    "name": "1302",
+                    "electricityNum": 365
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "14F",
+            "household": [{
+                    "name": "1401",
+                    "electricityNum": 865
+                },
+                {
+                    "name": "1402",
+                    "electricityNum": 465
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "15F",
+            "household": [{
+                    "name": "1501",
+                    "electricityNum": 465
+                },
+                {
+                    "name": "1502",
+                    "electricityNum": 365
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "16F",
+            "household": [{
+                    "name": "1601",
+                    "electricityNum": 665
+                },
+                {
+                    "name": "1602",
+                    "electricityNum": 165
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "17F",
+            "household": [{
+                    "name": "1701",
+                    "electricityNum": 765
+                },
+                {
+                    "name": "1702",
+                    "electricityNum": 565
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "18F",
+            "household": [{
+                    "name": "1801",
+                    "electricityNum": 365
+                },
+                {
+                    "name": "1802",
+                    "electricityNum": 1365
+                }
+            ]
+        }
+    ]
+}, {
+    "id": "2",
+    "name": "A2#",
+    "floor": [{
+        "id": "1",
+        "name": "1"
+    }, {
+        "id": "2",
+        "name": "2"
+    }, {
+        "id": "3",
+        "name": "3"
+    }]
+}, {
+    "id": "3",
+    "name": "A3#",
+    "floor": [{
+        "id": "1",
+        "name": "1"
+    }, {
+        "id": "2",
+        "name": "2"
+    }, {
+        "id": "3",
+        "name": "3"
+    }]
+}, {
+    "id": "4",
+    "name": "A4#",
+    "floor": [{
+        "id": "1",
+        "name": "1"
+    }, {
+        "id": "2",
+        "name": "2"
+    }, {
+        "id": "3",
+        "name": "3"
+    }]
+}, {
+    "id": "5",
+    "name": "A5#",
+    "floor": [{
+        "id": "1",
+        "name": "1"
+    }, {
+        "id": "2",
+        "name": "2"
+    }, {
+        "id": "3",
+        "name": "3"
+    }, {
+        "id": "4",
+        "name": "4"
+    }, {
+        "id": "5",
+        "name": "5"
+    }, {
+        "id": "6",
+        "name": "6"
+    }, {
+        "id": "7",
+        "name": "7"
+    }, {
+        "id": "8",
+        "name": "8"
+    }, {
+        "id": "9",
+        "name": "9"
+    }, {
+        "id": "10",
+        "name": "10"
+    }, {
+        "id": "11",
+        "name": "11"
+    }, {
+        "id": "12",
+        "name": "12"
+    }, {
+        "id": "13",
+        "name": "13"
+    }, {
+        "id": "14",
+        "name": "14"
+    }, {
+        "id": "15",
+        "name": "15"
+    }, {
+        "id": "16",
+        "name": "16"
+    }, {
+        "id": "17",
+        "name": "17"
+    }, {
+        "id": "18",
+        "name": "18"
+    }, {
+        "id": "19",
+        "name": "19"
+    }, {
+        "id": "20",
+        "name": "20"
+    }, {
+        "id": "21",
+        "name": "21"
+    }, {
+        "id": "22",
+        "name": "22"
+    }, {
+        "id": "23",
+        "name": "23"
+    }, {
+        "id": "24",
+        "name": "24"
+    }, {
+        "id": "25",
+        "name": "25"
+    }, {
+        "id": "26",
+        "name": "26"
+    }, {
+        "id": "27",
+        "name": "27"
+    }, {
+        "id": "28",
+        "name": "28"
+    }, {
+        "id": "29",
+        "name": "29"
+    }, {
+        "id": "30",
+        "name": "30"
+    }, {
+        "id": "31",
+        "name": "31"
+    }, {
+        "id": "32",
+        "name": "32"
+    }]
+}, {
+    "id": "6",
+    "name": "A6#",
+    "floor": [{
+        "id": "1",
+        "name": "1"
+    }, {
+        "id": "2",
+        "name": "2"
+    }, {
+        "id": "3",
+        "name": "3"
+    }, {
+        "id": "4",
+        "name": "4"
+    }, {
+        "id": "5",
+        "name": "5"
+    }, {
+        "id": "6",
+        "name": "6"
+    }, {
+        "id": "7",
+        "name": "7"
+    }]
+}, {
+    "id": "7",
+    "name": "A7#",
+    "floor": [{
+        "id": "1",
+        "name": "1"
+    }, {
+        "id": "2",
+        "name": "2"
+    }, {
+        "id": "3",
+        "name": "3"
+    }]
+}]

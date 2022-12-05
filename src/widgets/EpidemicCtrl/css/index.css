@@ -1,0 +1,148 @@
+.epidemic-ctrl-box {
+    padding-left: 156px;
+ 
+  }
+  .epidemic-home-btn {
+    margin-bottom: 10px;
+    pointer-events: all;
+  }
+  .epidemic-btn {
+    pointer-events: all;
+  }
+  .sel-monitor-object {
+    margin-bottom: 10px;
+  }
+  #cesiumDiv {
+    margin: 0;
+    padding: 0;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  .epidemicMap-msg {
+    text-align: center;
+    font-size: 12px;
+    color: #ccc;
+  }
+  .epidemic-lengend {
+    background-color: #ffffff;
+    position: fixed;
+    bottom: 10px;
+    left: 170px;
+    padding: 5px;
+    width: 130px;
+    height: 150px;
+    pointer-events: all;
+  }
+
+  .returnWork-box .datatop{
+    padding: 10px 0px 10px 5px;
+  }
+
+  #data-list {
+    height: 100%;
+    overflow-y: auto;
+  }
+
+.chart-box {
+  width: 360px;
+  height: calc(100% - 100px);
+  position: fixed;
+  right: 0px;
+  background: #fff;
+  pointer-events: all;
+  top: 65px;
+  /* display: none; */
+
+  box-shadow: rgba(9, 89, 169, 0.89) 0px 0px 55px inset;
+  border: 1px solid rgba(9, 89, 169, 0.89);
+  border-radius: 5px;
+  display: block;
+  background: 
+    linear-gradient(to bottom, #050505, #070e2e) left top no-repeat,
+    linear-gradient(to right, #050505, #070e2e) left top no-repeat,
+    linear-gradient(to bottom, #050505, #070e2e) right top no-repeat,
+    linear-gradient(to left, #050505, #070e2e) right top no-repeat,
+    linear-gradient(to top, #050505, #070e2e) left bottom no-repeat,
+    linear-gradient(to right, #050505, #070e2e) left bottom no-repeat,
+    linear-gradient(to top, #050505, #070e2e) right bottom no-repeat,
+    linear-gradient(to left, #050505, #070e2e) right bottom no-repeat;
+  background-size: 4px 60px, 60px 4px, 4px 60px, 60px 4px;
+}
+.chart-title{
+  height: 40px;
+  font-size: 18px;
+  line-height: 40px;
+  margin-left: 10px;
+  border-bottom: 1px solid  #ccc;
+  color: #b6dbe9;
+  font-weight: 700;
+}
+#data-list {
+  height: 90%;
+  overflow-y: auto;
+  margin-top: 2px;
+}
+#personMonitor-list {
+  height: 90%;
+  overflow-y: auto;
+  margin-top: 2px;
+}
+
+.returnWork-box {
+  width: 300px;
+  height: calc(100% - 200px);
+  position: absolute;
+  left: 156px;
+  pointer-events: all;
+  top: 120px;
+}
+.returnWork-box .datalist {
+  background: rgba(0, 0, 0, 0.5);
+  height: calc(100% - 50px);
+  margin-top: 10px;
+}
+
+.personMonitor-box {
+  width: 350px;
+  height: calc(100% - 350px);
+  position: fixed;
+  right: 10px;
+  background: #fff;
+  pointer-events: all;
+  top: 150px;
+}
+.person-list {
+  height: 100%;
+  overflow-y: auto;
+}
+.peopletable {
+  background-color: white;
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+}
+.peopleitem {
+  width: 100%;
+  padding: 5px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.37);
+  height: 40px;
+}
+
+.peopleitem td {
+  padding: 10px 0;
+  text-align: center;
+  width: 25%;
+}
+#humanitem:hover {
+  background-color: rgba(247, 238, 175, 0.678);
+  cursor: pointer;
+}
+.ppersonlisttitle {
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 1px;
+  border-left: 4px solid #1890ff;
+  text-indent: 8px;
+  text-align: left;
+}

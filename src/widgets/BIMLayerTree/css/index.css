@@ -1,0 +1,114 @@
+.mainBox {
+  height: 800px;
+  width: 300px;
+  position: relative;
+  left: 20px;
+}
+
+.pblock {
+  position: relative;
+  top: 10px;
+}
+
+.button {
+  margin-left: 10px;
+}
+
+.tree-box {
+  position: relative;
+  left: 0px;
+  top: -40px;
+  height: 650px;
+  width: 420px;
+  overflow-y: scroll;
+  overflow-x: scroll;
+}
+
+.tabs {
+  top: -20px;
+}
+
+.tabplock {
+  position: relative;
+  left: 15px;
+  top: -20px;
+  margin-bottom: 0px;
+}
+
+.popup-box {
+  position: fixed;
+  z-index: 10;
+  top: 112px;
+  left: 400px;
+  border-radius: 2px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 1px 4px rgb(92, 175, 255);
+  min-width: 250px;
+}
+.mtree-box {
+  position: relative;
+  text-align: left;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.txt-ellipsis {
+  display: inline-block;
+  max-width: 140px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  letter-spacing: 1px;
+}
+
+/deep/ .ant-tree li {
+  position: relative;
+}
+
+/deep/ .ant-tree li > span.ant-tree-node-content-wrapper {
+  width: calc(100% - 30px);
+  position: relative;
+}
+
+/* 菜单树右侧鼠标菜单 */
+.rt-menu-box {
+  position: absolute;
+  z-index: 90;
+  min-width: 120px;
+  background-color: #fff;
+  -webkit-box-shadow: 0px 1px 15px 1px rgba(69, 65, 78, 0.18);
+  box-shadow: 0px 1px 15px 1px rgba(69, 65, 78, 0.18);
+}
+
+.rt-menu-box ul {
+  padding: 10px 0;
+  margin: 0;
+}
+
+.rt-menu-box li {
+  list-style-type: none;
+}
+
+.rt-menu-box span {
+  display: block;
+  color: #595959;
+  height: 28px;
+  line-height: 28px;
+  font-size: 12px;
+  font-family: inherit;
+  background: #fff;
+  border: 0px;
+  border-radius: 1px;
+  padding: 0 30px;
+}
+
+.rt-menu-box span:hover {
+  color: #fff;
+  background: #36a3f7;
+  cursor: pointer;
+}
+
+.rt-menu-box span i {
+  margin-right: 10px;
+}

@@ -1,0 +1,69 @@
+{
+  "VillageBuilding": [
+    {
+      "id": "1",
+      "batchId": 749,
+      "name": "农房（12x11x11）",
+      "coordinates": [112.21620273, 22.5650382, 150]
+    },
+    {
+      "id": "2",
+      "batchId": 708,
+      "name": "农房（11x9x11）",
+      "coordinates": [112.21591343, 22.56526563, 150]
+    },
+    {
+      "id": "3",
+      "batchId": 684,
+      "name": "农房（11x9x13.5）",
+      "coordinates": [112.21567766, 22.56548314, 150]
+    }
+  ],
+  "boxPointList": [
+    [112.21619012, 22.56505292, 107],
+    [112.21589846, 22.56526016, 104.2],
+    [112.2156394, 22.56547387, 102]
+  ],
+  "curModle": {
+    "id": "634ad996-642d-4197-94c9-44965085de3e",
+    "name": "农房",
+    "url": "http://192.168.3.203:7280/Models/SYSU/yunfu_3dtiles_road/tileset.json"
+  },
+  "tableArr": [
+    {
+      "id": "8d5320b1-e752-4d4a-8136-c5e8ee61dfd4",
+      "name": "农房",
+      "url": "http://192.168.3.203:7280/Models/SYSU/yunfu_3dtiles_road/tileset.json"
+    }
+  ],
+  "columns": [
+    {
+      "title": "名称",
+      "dataIndex": "name",
+      "key": "name"
+    },
+    {
+      "title": "功能",
+      "key": "action",
+      "scopedSlots": { "customRender": "action" }
+    }
+  ],
+  "columns1": [
+    {
+      "title": "序号",
+      "dataIndex": "id",
+      "key": "id"
+    },
+    {
+      "title": "对象属性",
+      "dataIndex": "name",
+      "key": "name",
+      "scopedSlots": { "customRender": "name" }
+    },
+    {
+      "title": "功能",
+      "key": "action",
+      "scopedSlots": { "customRender": "action" }
+    }
+  ]
+}

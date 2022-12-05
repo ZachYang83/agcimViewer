@@ -1,0 +1,102 @@
+.area-page {
+  padding: 0 10px;
+  height: 100%;
+}
+.area-page .h4 {
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 1px;
+  border-left: 4px solid #1890ff;
+  text-indent: 8px;
+  text-align: left;
+}
+.area-page .item {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 10px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.37);
+  padding: 10px;
+}
+.area-page .item p {
+  margin: 0 10px 0 0;
+  width: 60px;
+  text-align: center;
+}
+
+.area-page .ventFuncOpac {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  /* border-bottom: 1px solid rgba(128, 128, 128, 0.37); */
+  margin: 0 0 10px 0;
+  padding: 5px 0;
+  /* border-top: 1px solid rgba(128, 128, 128, 0.37); */
+}
+
+.ventFuncDict {
+  /* display: flex;
+  align-items: center; */
+  width: 100%;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.37);
+  margin: 0 0 10px 0;
+  padding: 5px;
+}
+
+.alstitle {
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.listtitle {
+  width: 100%;
+}
+
+.bdlist {
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+}
+
+.bditem {
+  background-color: white;
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.bdtable {
+  width: 100%;
+  padding: 5px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.37);
+}
+
+.area-page td {
+  padding: 10px 0;
+  text-align: center;
+  width: 25%;
+}
+
+.DictCom {
+  /* width: 70%; */
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+.ventDict {
+  display: flex;
+  justify-content: space-around;
+  margin: 5px;
+}
+.ventDict >>> .anticon {
+  margin-right: 6px;
+  padding: 4px;
+  font-size: 24px;
+  border: 1px solid;
+  border-color: #ddd;
+  border-radius: 4px;
+}
+
+.ventDict >>> .anticon:hover {
+  background-color: rgba(189, 189, 189, 0.753);
+}

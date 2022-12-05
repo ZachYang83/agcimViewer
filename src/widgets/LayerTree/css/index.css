@@ -1,0 +1,153 @@
+.mtree-box {
+  position: relative;
+  text-align: left;
+  height: 100%;
+  box-sizing: border-box;
+  min-width: 330px;
+}
+
+.mtree-box .tree-box {
+  margin: 10px 0;
+  border-top: 1px solid #eee;
+  min-height: 200px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding-left: 5px;
+}
+
+.mtree-box .tree-box .index {
+  position: relative;
+  top: -5px;
+  margin-right: 2px;
+  font-size: 10px;
+  color: #999;
+  border-radius: 2px;
+  padding: 0 2px;
+  letter-spacing: -0.6px;
+}
+
+.mtree-box .txt-ellipsis {
+  display: inline-block;
+  max-width: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  letter-spacing: 1px;
+}
+
+.mtree-box .top-box {
+  padding: 0 10px;
+}
+.mtree-box .top-box section {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}
+
+.mtree-box .search-box {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  width: 120px;
+}
+
+/deep/ .search-box .ant-input {
+  font-size: 12px;
+}
+
+.mtree-box .icon-box {
+  display: inline-block;
+  background: #fff;
+  width: 30px;
+  line-height: 28px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.65);
+}
+.mtree-box .icon-box:not(:last-child) {
+  border-right: 1px solid #ccc;
+}
+
+.mtree-box .dbleft {
+  position: absolute;
+  top: 40%;
+  right: 10px;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.mtree-box .grade {
+  margin-left: 6px;
+  width: 55px;
+  font-size: 12px;
+}
+
+.mtree-box .environment {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  padding: 4px;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.5);
+  transform: translate(0, -50%);
+}
+
+.mtree-box .environment.active {
+  color: #1890ff;
+}
+
+/deep/.environment.anticon svg {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+}
+
+/deep/ .ant-tree li {
+  position: relative;
+}
+
+/deep/ .ant-tree li > span.ant-tree-node-content-wrapper {
+  width: calc(100% - 45px);
+  position: relative;
+}
+
+/* 菜单树右侧鼠标菜单 */
+.rt-menu-box {
+  position: absolute;
+  z-index: 90;
+  min-width: 120px;
+  background-color: #fff;
+  -webkit-box-shadow: 0px 1px 15px 1px rgba(69, 65, 78, 0.18);
+  box-shadow: 0px 1px 15px 1px rgba(69, 65, 78, 0.18);
+}
+
+.rt-menu-box ul {
+  padding: 0;
+  margin: 0;
+}
+
+.rt-menu-box li {
+  list-style-type: none;
+}
+
+.rt-menu-box span {
+  display: block;
+  color: #595959;
+  height: 28px;
+  line-height: 28px;
+  font-size: 12px;
+  font-family: inherit;
+  background: #fff;
+  border: 0px;
+  border-radius: 1px;
+  padding: 0 30px;
+}
+
+.rt-menu-box span:hover {
+  color: #fff;
+  background: #36a3f7;
+  cursor: pointer;
+}
+
+.rt-menu-box span i {
+  margin-right: 10px;
+}
